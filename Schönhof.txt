@@ -1,19 +1,41 @@
 Index für Schönhof (Krásný Dvůr)
 
 Geburten
+L12/3 (1718-1770, illegitimierte ab Scan 138-143)
+TODO<-Scan 133
+-
+Scan 136->TODO
 
 L12/4 (1771-1784)
 Franciscus Josephus Schwartz		9/10.5.1771	4	Haus Nr. 34, Schwartz Josephs nqerlinns Joamis Schwartz ex Maria Bürgerin sit. Mater: Maria Anna Joamis Comphila
 
+L12/16 (1784-1864 Nach Index)
+Franz Schwarz				16.9.1784	1	Haus Nr. 44, unehl. Mutter: Anna Elisabetha Schwarz(in), Unterthan von ?
+Anna Ragina Schwarz			19.6.1787	8	Haus Nr. 33, Eltern: Thomas Schwarz, Hausgenos | Katharina geborene Heidlerin
+Maria Theresia Schwarz			21?.4.1790	15	Haus Nr. 33, Eltern: Mathias Schwarz, ?Littner? | Walburgis geborene Halbhuber(in)
+Maria Anna Theresia Schwarz		8.10.1792	21	Haus Nr. 26, Eltern: Thomas Schwarz, Hausgenos | Katharina geborene Heidlerin
+Theresia Schwarz			11.10.1792	22	Haus Nr. 11?, Eltern: Joseph Schwarz, Zimmermann | Josepha geborene Hofmann(in)
+Theresia Rosina Schwarz			19.10.1793	23	Haus Nr. 26, Eltern: Thomas Schwarz, Hausgenos | Katharina geborene Heidlerin
+Franz Joseph Schwarz			8.2.1794	24	Haus Nr. 11?, Eltern: Josephus Schwarz, Zimmermann | Josepha geborene Hofmann(in)
+Barbara Schwarz				25.11.1815	82	Haus Nr. 33, Eltern: Mathes Schwarz, ?der in Schönhof | Anna geborene ?Geißler?, und der Magaret Domberger aus Lubau Nr. 7
+Johann Schwarz						84
+Franz Karl Schwarz					88
+
+
 ________________________________
 Tode
+
+L12/3 (1718-1770)
+TODO
 
 L12/4 (Tode ab Scan 105)
 TODO
 
-
 ________________________________
 Trauungen
+
+L12/3 (1718-1770, ab Scan 143-)
+TODO
 
 L12/4 (Trauungen ab Scan 80)
 Josephus Schwarz oo Catharina Stöhr	3.8.1773	4	Schönhof 34, Schwarz Josephus Casarius Schönhofensis georgii Schwartz & Catharina nata Borgerin filius. Sponsa: Catharina Wenceslai Stöhr & Maria Elisabetha nata Schindlerin filia

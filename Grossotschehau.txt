@@ -2,6 +2,13 @@ Grossotschehau (Očihov)
 
 
 Geburten
+L118/5 (1744-1753, nach Index)
+? Joannes Wenceslay Schwartz		20.8.1745	11	... Joannis Schwartz ... Katharina nata ?Zweteg(in)?
+Anna Rosalia Schwarz			17.8.1746	17	... Christophori Schwartz ... Elisabetha nata ?Schmiet(in)? ... Elisabetha ?Flugg(in)?
+Maria Catharina Schwarz			25.3.1748	26	... Joannis Schwartz ... Catharina nata ?Zwetig(in)?
+Maria Magdalena Schwarz			7.7.1749	36	... Christophori Schwartz ... Elisabetha nata ?Schmiedt(in)?
+Anna Catharina Schwarz			22.10.1751	52	... Christophori Schwartz ... Elisabetha nata ?Schmiedl(in)?
+
 L118/6 (1753-1784 nach Index, Scan 34-88, Index Scan 89-96)
 Joannes Antonius Schwarz		18.5.1767	63	... Martini Schwarz ... Elisabetha ...
 Catherina Veronica Schwarz		71
@@ -32,21 +39,24 @@ Burghard Schwarz		1852	179
 Frider Schwarz			1854	188
 
 
-
+________________________________
 Tode
 
 
 
 
 
-
+________________________________
 Hochzeiten
+
+L118/5 (1744-1753, nach Index, Trauungen ab Scan 212)
+-
+
 L118/6 (1753-1784 nach Index, Scan 1-26, Index Scan 27-33)
 Martin Schwarz oo Elisabeth Schimerich		24.10.1758	9	Martinum Christophori Schwarz ... Anna Elisabetha ... Schimerich...
 Martin Schwarz oo Elisabeth Steidl			14
 Martin Schwarz oo Maria ?Koper?			26.?.1764	22	Martinus Schwarz ... Maria, Wenceslai ?Sloggers? rustica fila
 Georg Schwarz oo Catherina Sterban			31
-
 
 L118/20 (1784-1885 nach Index)
 Lamberth Schwarz oo Maria Anna Palzer	16.11.1802	8	Haus Nr. 36, Brätigam (24 Jahre ~ 1776): Schwarz Lambert, ehl. Sohn des ?Josef? Martin, Bauer | Braut (22 Jahre): ? Palzer(in) Maria Anna ehl. Tochter des Peter Palzer, Bauers allda Nr. 53

@@ -4,28 +4,35 @@ Index Pomeisl(Nepomyšl)
 
 Geburten
 
-L104/2 (nach Index)
+L104/2 (1784-1849, nach Index)
 Anton Schwarz			06.03.1794	30	Haus Nr. 43, Eltern: Mathäus Schwarz ein Bürger und ?Schechnaiher? | Franziska geborene ?Domeheibeniner?, (beide) Pomeisler Unterthan
-Karl Schwarz			09.12.1835	222	Haus Nr. 130, Eltern: Franz Hubert Schwarz ?Satlermeister? in Pomeisl Nr. 130, Sohn des Joseph Schwarz Zimmermann aus ?ü?mitz Nr. 104 und dessen Gattin Josepha geborene Hofmann aus ?Schrühof? Nr | Theresia Tochter des ? S?mst? Scheni?sters? in Pomeisl Nr. 130 und dessen Gattin ? geborene Brißler? aus ? Nr. 103
+Karl Schwarz			09.12.1835	222	Haus Nr. 130, Eltern: Franz Hubert Schwarz ?Satlermeister? in Pomeisl Nr. 130, Sohn des Joseph Schwarz Zimmermann aus ?ü?mitz Nr. 104 und dessen Gattin Josepha geborene Hofmann aus ?Schrühof? Nr | Theresia Tochter des ? S?mst? Schneidermeisters in Pomeisl Nr. 130 und dessen Gattin ? geborene Brißler? aus ? Nr. 103
 Theresia Schwarz		12.05.1838	249	Haus Nr. 130
 Hubert Schwarz			4.6?.1840	269	Haus Nr. 130
 Joseph Schwarz			17?.8.1842	291	Haus Nr. 130
 ?Aloisia? Schwarz		26.12.1844	313	Haus Nr. 130
 Maria Schwarz			4.5.1846	327	Haus Nr. 130
-Hubertus Schwarz		27.10.1847	341	Haus Nr. 130
+Hubertus Schwarz		27.10.1847	341	Haus Nr. 130, Eltern: Hubert Schwarz, Sattlermeister in Pomeisl Nr. 130, Sohn des +Joseph Schwarz Zimmermanns in ?uplatz? Nr. 104 u. dessen Gattin Josepha, geborene Hofmann aus ?Schönhof? Nr _ | Theresia Tochter des Ferdinand ?Sauerstein?, Schneidermeisters in Pomeisl Nr. 130 u. dessen Gattin Elisabetha geb. ?Bris?er? aus ?Prag? Nr. 105
 
+L104/3 (1850-1869)
+TODO
+
+
+___________________________________
 Tode
 L104/6 (nach Index)
 Anton Schwarz			17.06.1794	16	Haus Nr. 43, Ein Sohn des Mathäus Schwarz ?aigen ?Schecheihenmeißter?, 1/4 Jahr
-Hubert Schwarz			12.04.1843	111	Haus Nr. 130, Hubert Sohn des Hubert Schwarz ?Heisiger? ?Sattlermeisters?, 2 Jahre 3 Monate
-Maria Schwarz			10/12.12.1846	118	Haus Nr. 130, Maria Tochter des ?heisigen Sattlermeisters? Hubert Schwarz Nr. 130, 3/4 Jahr
-Wilhelm Schwarz			6/8.2.1855	134	Haus Nr. 130, Wilhelm Sohn des Hubert Schwarz ?Sattlermeisters? in Pomeisl Nr. 130 ? ?, 8 Jahre
-Wilhelmina Schwarz		3/5.1.1856	136	Haus Nr. 130, Wilhelmina Tochter des Hubert Schwarz ?Sattlermeisters? in Pomeisl Nr. 130 ? ?, 8 Tage
+Hubert Schwarz			12.04.1843	111	Haus Nr. 130, Hubert Sohn des Hubert Schwarz heisiger Sattlermeisters, 2 Jahre 3 Monate
+Maria Schwarz			10/12.12.1846	118	Haus Nr. 130, Maria Tochter des heisigen Sattlermeisters Hubert Schwarz Nr. 130, 3/4 Jahr
+Wilhelm Schwarz			6/8.2.1855	134	Haus Nr. 130, Wilhelm Sohn des Hubert Schwarz Sattlermeisters in Pomeisl Nr. 130 ? ?, 8 Jahre
+Wilhelmina Schwarz		3/5.1.1856	136	Haus Nr. 130, Wilhelmina Tochter des Hubert Schwarz Sattlermeisters in Pomeisl Nr. 130 ? ?, 8 Tage
 Lorenz Schwarz			3/4.10.1866	171	Haus Nr. 69, Lorenz Schwarz (Ignarice Ceřný) ?Bärbermeister? in Pomeisl Nr. 69 Bezirk Podersam, 65 Jahre
 Hubert Schwarz			19/21.6.1879	214	Haus Nr. 133, Hubert Schwarz ?Sattlermeister? in Pomeisl Nr. 133 Bezirk Podersam, 72 Jahren 48 Jahren ?
 Schwarz Marie Cemy		15/17.09.1883	237	Haus Nr. 165, Schwarz Marie rede Ceřný el. Tochter des Lorenz Schwarz ?Backermeister? in Pomeisl Nr. 70 Bez. Podersam, 25 Jahre
 Schwarz Theresia		17/19.08.1884	240	Haus Nr. 133, Schwarz Theresia, Witwe ? +Sattlermeister Hubert Schwarz in Pomeisl, 73 Jahre
 
+
+___________________________________
 Hochzeiten
 L104/5 (nach Index)
 Franz Hubert Schwarz oo Thereisa ?S?stnir?	3.2.1835	68	Haus Nr. 130

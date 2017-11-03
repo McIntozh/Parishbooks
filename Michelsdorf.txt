@@ -6,11 +6,14 @@ Karl Schwarz? 1884  P91
 Emil Schwarz 5.1845 P94
 
 Michelsdorf
-Michelsdorf 173/2 (1747-1784)
+173/1 (1733-1746)
+-
+
+173/2 (1747-1784)
 Schwarz als Levans:	18.09.1752	Scan 50	Baptisatus est Filius illegitime natus Matheus Josephus eg Matre Maria Christina ?Eberhain?. Levans Joseph Schwartz, Testis Elisabetha ?Friederin? 
 
 
-Michelsdorf 173/3 (1784-1881)
+173/3 (1784-1881)
 Maria Anna Schwarz		10.11.1793	13	Haus Nr. 2, Eltern: Schwarz Franz | Maria Anna [Wahrscheinlich Gössnitzer]
 Franz Wenzel Schwarz		21.11.1801	31	Haus Nr. 2, Eltern: Franz Schwarz | M.Anna eine Tochter des Christoph Gössnitzer aus Pröhlig Nr 14. die Mutter Katharina geborene Felber(in) aus Pröhlig Nr. 14 zum Guts Neusattel
 Franz Schwarz			26.05.1821	71	Haus Nr. 18, Eltern (getraut 21.11.1815): Franz Schwarz Tagelöhner | M.Anna des +Anton Friedmann Lehrers v. Hier u. der Barbara Albrinch(in) ehel. Tochter 
@@ -79,6 +82,9 @@ Anna Schwarz		12.1899	141
 
 __________________________________________________
 Trauungen
+173/1 (1733-1746, Ab Scan 36)
+Scan 39->TODO
+
 L173/2
 Joannes Josef Schwartz?	5.5.1753	Scan 62	oo Maria Susanna Stunde ex Schönhofensis
 
