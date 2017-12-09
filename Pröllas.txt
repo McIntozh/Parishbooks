@@ -5,7 +5,7 @@ Geburten
 
 L12/14 (1787-1838)
 Theresia Schwarz(in)		11.9.1789	6	Haus Nr. 17, Eltern: Thomas Schwarz ?Hausgenot? | Catharina gebohrene Heidlerin
-Mechthild Schwarz(in)		20.6.1791	11	Haus Nr. 8, Eltern: Thomas Schwarz ?Hausenos? | Catharina Heydlerin
+Mechthild Schwarz(in)		26.6.1791	11	Haus Nr. 8, Eltern: Thomas Schwarz ?Hausenos? | Catharina Heydlerin
 Mechthild Carolina Schwarz(in)	22.5.1796	25	Haus Nr. 24, Eltern: Thomas Schwarz ?Hausenos? | Catharina gebohrene Heidlerin von ?oblik Nr. 9
 Maria Anna Barbara Schwarz(in)	7.8.1798	29	Haus Nr. 24, Eltern: Thomas Schwarz ?Hausenos? | Catharina gebohrene Heidlerin von ?oblik Nr. 9
 Anton Schwarz			16.6.1830	101	Haus Nr. 27, unehl., Mutter: Theresia Schwarz Dienstmagt in Pröllas Nr 27 eine ehl. Tochter des Christoph Schwarz Schneiders in Emanuels Hof Nr. 6 gebürtig aus Klein Lubikau [Anm: gemeint ist Klein Lubigau (Malý Hlavákov)] Nr. _ ?wldscher? Herrschaft und der Barbara Weiss aus Emanuels Hof Nr. 6 
@@ -14,7 +14,9 @@ ________________________________
 Tode
 
 L12/14 (1787-1838)
-TODO
+Mechthild Schwarz(in)		12.8.1791	4	Haus Nr. 8, 7 Wochen, Frais
+Anna Rosina Schwarz(in)		15.8.1795	7	Haus Nr. 24, 1 1/2 Jahre, Blattern
+Katharina Schwarz		14/15.9.1838	45	Haus Nr. 28, 26 Jahre, Katharina Schwarz, ehl. Tochter des Wenzl Schwarz, Maurer und Häusler in ?Jyhrau? Nr. 18, Herrschaft Schönhof, Selbsterhängen in Grister ?Zergenrtung?
 
 
 ________________________________
