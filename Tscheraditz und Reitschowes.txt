@@ -5,7 +5,7 @@ Geburten
 138/4 (Tscheraditz) Scan 27-78
 Susanna Schwarz(in)		7.1.1789	28	Haus Nr. 5, Eltern: Franz Schwarz Taglöhner | Maria Anna Gößnitzer(in)
 Johann Paul Karl Schwarz	26.6.1791	30	Haus Nr. 5, Eltern: Franz Schwarz T? ?Weinernitsch? | Maria Anna Gößnitzer(in)
-Franz Karl Schnaryz		16.05.1796	34	Haus Nr 17: A? Schnaryz Taglöhner | Joseepha Hopfin
+Franz Karl Schnaryz		16.05.1796	34	Haus Nr 17: Andres Schnaryz Taglöhner | Joseepha Hopfin
 Scan 46->TODO
 
 
@@ -60,7 +60,7 @@ ________________________________
 Trauungen
 138/4 (Tscheraditz) Scan 1-27
 Joseph Schwarz oo Elisabetha Schmalfuß	22.5.1785	Haus Nr. 12?, Bräutigam: Joseph Schwarz ?i?s-Sohn in Saatz, 20 Jahre | Braut: Elisabetha Schmalfuß Schusters-Tochter in Tscheraditz, 24 Jahre
-Scan 5->TODO
+Scan 7->TODO
 
 138/6 (Miltschowes) (Scan 1-22)
 Scan 4->TODO

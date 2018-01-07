@@ -4,13 +4,14 @@ http://vademecum.soalitomerice.cz/vademecum/ViewControlImpl.action?alter=&_sourc
 
 Geburten
 
-Michelsdorf/Weitentrebetitsch L173/2 (Unehl. Kinder ab Scan 49, Trauungen ab Scan 60, versorbene ab Scan 83)
+L173/2 (1747-1784, Unehl. Kinder ab Scan 49)
+Scan 10->TODO
 TODO<-Scan 25
 Joannes Wenzlaus Schwartz?	27.05.1755	Scan 50	Die 27 Majs nahus, et baptisatry est Filius Joannes Wenzlaus ex illegitimo Toro. Mater ejes fuit Silvia Zeitlerin, Carens autem dictus feisse Mathaus Schwartz ex Hotshehau Libotitz Gödesamensis. Levans fuit Joannes Wenzlaus Monerth. Testes Franciscus Josephus Meltzer, Rosina Hanauerin. Rosina Zeitlerin, Dorothea Fancin, Anna Elisabetha Gopoetin, Catharina Domashkin, Catherin Baijerlin, ?ne? ?-Trebetirenses. Babptisarti Tachens Schreither Capelli Willomirenzs. Legetimata fuit Brolis permarimonium 25. January 1757 celebrati Barenzidem ?isi? ?frener?
 
 Weitentrebetitsch I L160/1
-Johannes Franz Schwarz		08.09.1786	III	Haus Nr. 12, Eltern: Franz Schwarz | Maria Anna, Paten: Joseph ?rimmer - Schafmeister? und Jakob ?Sotzar? - Bauer)
-Lena? Theresia Schwarz		11.05.1814	LXXIV	Haus Nr. 44, unlegit., Eltern: Sussana Schwarz(in) ? ? Tochter des Franz Schwarz, Marianne? aus Weitentrebetitsch, Paten: ?rstina? Theresia - ?Theimßmize?, Johann ?Mosbau? - ?Dienstknecht? aus Weitentrebetitsch, Margaretha ?Pfautlin? Hebamme
+Johannes Franz Schwarz		08.09.1786	III	Haus Nr. 12, Eltern: Franz Schwarz | Maria Anna, Paten: Joseph ?rimmer - Schafmeister, Jakob Sotzar - Bauer)
+Anna Theresia Schwarz		11.05.1814	LXXIV	Haus Nr. 44, unlegit., Eltern: Sussana Schwarz(in) ehelich erzeugte Tochter des Franz Schwarz, Mariana [meint wohl Maria Anna] aus Weitentrebetitsch, Paten: ? Theresia - ?Theimßmize?, Johann Sterban - Dienstknecht aus Weitentrebetitsch, Margaretha ?Pfautlin? Hebamme
 
 Weitentrebetitsch II  L160/2
 Johanna Schwarz(in)		18/19.01.1821	XI	Haus Nr. 44, Eltern: Josef Schwarz Trescher am herschaftlichen Meyenhofe | M. Anna des +Bennedikt Wenisch aus (Teutschen)Rust und der Katharina geborene Früchtlin eben aus Rußt ehel. Tochter, Paten: Johanna Häuslers Tochter aus Neundorf, ?Tsheiushkin? Forhaukin Dienstknecht von hier, Hebamme Franiska Hinz
@@ -32,6 +33,11 @@ Franz Schwarz			23.06.1883	16
 
 ________________________________
 Tode
+
+L173/2 (1747-1784, versorbene ab Scan 83)
+Caspar Schwartz		16.03.1747	Scan 83	46 Jahre [~1701 ?Tscheraditz?], Den 14. Marty ist der Caspar Schwartz von ?Tscheraditz? im Spital mit den heyl. Scramenten beylegt ... und lötzter Öhlung ... den 16 gestorben und den dato alhier begraben worden war alt 46 Jahre
+TODO, siehe Michelsdorf
+
 L160/7
 Martin Schwarz 		06.03.1795	IX	Haus Nr. 12, 71 Jahre, Spitäler, An einer Art von Frais
 Anton Schwarz 		11/13.11.1800	XVI	Haus Nr. 3, 25 Wochen, Schaffers Söhnlein, An Fraisen
@@ -86,8 +92,9 @@ ________________________________
 
 Trauungen
 
-L173/2 (Michelsdorf/Weitentrebetitsch)
-Martiny Schwarz oo Sylvia Zeidler		25.01.1757	Scan 64	Die 25 Januari 1757 a meinfra frigto copulati ell Sponsut Martiny Schwarz ex Pago Hotshehau no nune jubilaty ?ihrön Krchianey cum Sponsa sua Sylvia Joannis Adami Zeidler defutcti legitima filia pariter Lubita Schöen Kirchiana (Schönkirchen?). proviy termis janoicoy denunciationiky nie 9, 16, & 23 Januarii, nullo detecto impedimento Canonico & Festiby Joameftdamu Sacher future, et Joanne Wencelau lieber murario Subity 
+
+L173/2 (1747-1784, Trauungen ab Scan 60)
+Martiny Schwarz oo Sylvia Zeidler		25.01.1757	Scan 64	Die 25 Januari 1757 a meinfra frigto copulati ell Sponsut Martiny Schwarz ex Pago Hotshehau [Wohl Groß/Klein-Otschehau] no nune jubilaty Schön Krchianey cum Sponsa sua Sylvia Joannis Adami Zeidler defutcti legitima filia pariter Lubita Schöen Kirchiana (Schönkirchen?). proviy termis janoicoy denunciationiky nie 9, 16, & 23 Januarii, nullo detecto impedimento Canonico & Festiby Joameftdamu Sacher future, et Joanne Wencelau lieber murario Subity 
 
 L160/6 (Anhand Index)
 Susanna Schwarz oo Anton Aunert			11.11.1823	26	Haus Nr. 13, Bräutigam (2. Ehe): Anton Aunert ausgedienter Veteran bei Herzog Wellington ... | Braut: Susanna eheliche Tochter des Franz Schwarz des obrigkeitlichen Hegers in Weitentrebetitsch und der M.Anna gebohrene Gößnitzer. Geboren in Tscheraditz Nr. 5 am 7.1.1789, bapt. in Reitschowes (Bd.-Fol 28) Reitschowes 14.10.1823

@@ -1,9 +1,17 @@
-Index Gödesin
+Gödesin (Dětaň)
 
 Bisher nur über Index gesucht...
 
 Geburten
-L104/7 (1784-1861)
+
+L97/1 (1624-1661)
+TODO
+
+L104/1 (1742-1784, nach Index, Scan 1-137, 156-160, 162-164, 166-167, unlegit Scan 169-175, 183-189, Index Scan 137-155, 160-161, 165, 168, 175-183 )
+Anna Maria Schwarz	26.01.1759	114	Die 26 January nata et 29 quidem baptizada ... Anna Maria, Martin Schwartz inquilus et Sylvia Subitoue Schönkirchen filia
+
+
+L104/7 (1784-1861, nach Index)
 Schwarz Maria		08.12.1829	24	Haus Nr. 1, Eltern: Joseph Schwarz Scheunenmeister Nr.1 in Gödesin Sohn des Franz Schwarz Tagelöhners in Weitentrebetitsch Nr und dessen Gattin | M.Anna Tochter des +Benedikt ?Dedneipelz? Bauers aus (Deutschen)Rust Nr. 5 und dessen Gattin (Anna) Katharina geborene Früchtl Nr. 8 in (Deutschen)Rust (oo wahscheinlich 24.01.1797 Deutschenrust) | Weitentrebetitscher Unterthan
 Schwarz Franziska	10.06.1832	26	Haus Nr. 1, Eltern: Joseph Schwarz Scheunenmeister in Gödesin Nr.1 Sohn des Franz Schwarz Tagelöhners in Weitentrebetitsch Nr und dessen Gattin geborene aus Weitentrebetitsch | M.Anna Tochter des +Benedikt ?Monmipch? Bauers aus Rust Nr. 5 und dessen Gattin Katharina geborene ?Gerühtel? aus Rust Nr. 8 ?ntertharen?
 Schwarz Johan		27.11.1834	29	Haus Nr. 1, Eltern: Joseph Schwarz Scheunenmeister in Gödesin Nr.1 Sohn des Franz Schwarz Tagelöhners in Weitentrebetitsch Nr und dessen Gattin geborene aus Nr. | M.Anna Tochter des +Benedikt L?tenisch aus Rust Nr. 5 und dessen Gattin Katharina geborene ?Dmichtl? aus Rust Nr. 8
@@ -17,9 +25,16 @@ Joseph Schwarz/Tuch	05.12.1846	49	Haus Nr. 1, unehel, Mutter: Anna Tochter des J
 Karolina Schwarz	19.9.1847	51	Haus Nr. 14, Eltern: Joseph Schwarz Scheunenmeister in Gödesin Nr.14 Sohn des Franz Schwarz Feldheger in Weitentrebetitsch Nr. 10 u dessen Gattin M.Anna geborene Gesenitzer aus ?Ströhsau? | Theresia Tochter des Johann Richter Bauers in Kumitz Nr. 13 und dessen Gattin M.Anna geborene Pohl aus Kumitz Nr. 18 Weitentrebetitscher Unterthan, Pathen: ??? beide aus Pomeisl
 Josef Franz Schwarz 	29/30.08.1849	55	Haus Nr. 14, Eltern: Joseph Schwarz Scheunenmeißter in Gödesin Nr.14 Sohn des Franz Schwarz Feldheger in Weitentrebetitsch Nr. 10 u dessen Gattin M.Anna geborene Gesenitzer aus Ströhsau [=Stresau/Strössau/Střezov] Nr._ | Theresia Tochter des +Johann Richter Bauers in Kumitz Nr. 13 und dessen Gattin M.Anna geborene Pohl aus Kumitz Nr. 18, Pathen: Frunz Josef und Anna Lenhart Schuhmachermeister mid dessen Gattin ni Gödesin
 
-
+______________________________
 Tode
-L104/17 (1784-1927)
+
+L97/1 (1624-1661)
+TODO
+
+L104/1 (1743-1784, nach Index, Scan 266-357, Rust 376-378, Wärzen 380-381, Gödesin 382-383 Index 357-375, Rust 379, Wärzen 381, Gödesin 383)
+-
+
+L104/17 (1784-1927, nach Index)
 Franziska Schwarz	12/14.6.1832	12	Haus Nr. 1, Franziska, Tochter des Joseph Schwarz Scheunenmeisters in Gödesin, 3 Tage
 Johan Schwarz		28.11.1834	13	Haus Nr. 8, Johann, Söhnlein des Joseph Schwarz Scheunenmeisters in Gödesin, 3 Tage
 Theresia Schwarz	8/20.2.1837	14	Haus Nr. 8, Theresia, Tochter des Joseph Schwarz Tagelöhners in Gödesin, 1 1/2 Jahr, Gehirnentzündung
@@ -29,8 +44,16 @@ Wenzl Schwarz		15.3.1841	15	Haus Nr. 2, Wenzl, Sohn des Joseph Schwarz Scheunenm
 Johanna Schwarz		30.9/2.10.1841	15	Haus Nr. 1, Tochter des Scheunenmeisters Tochter Johanna Schwarz aus Gödesin, 8 Tage, unehelich
 Karolina Schwarz	5/7.4.1848	17	Haus Nr. 14, Karolina, Tochter des Joseph? Schwarz ?abnistlichter? Scheunenmeisters in Gödesin Nr. 14, 28 Wochen
 
+______________________________
 Hochzeiten
-L104/16 (1784-1925)
+
+L97/1 (1624-1661)
+TODO
+
+L104/1 (1745-1784, Scan 189-254, Rust 261-262, Wärzen 263-264, Gödesin 265, Index (Nur nach Nachname der Gattin) 255-261, Rust 262, Wärzen 264)
+TODO
+
+L104/16 (1784-1925, nach Index)
 ?Schwarz Theresia oo ? ?Ulmitz?		7.2.1827	8	Bräutigam: ? ?Ulmitz? Hofknecht in Gödesin Nr. 1, großjähriger Sohn des Joseph ?Ulmitz? ...  Braut (23 Jahre): Theresia, Dienstmags ? minderjährigs Tochter ? ? ?Anton? ?Schwarz? Häuslers aus ?Fischern/Lenzhöfen? Nr. 6 und dessen Gattin Franziska geborene ?Rutphen? aus ?Bibni? Nr 21, Pathen: Wenzel Schwarz ? ?Bauer? aus ?Gödesin?, ?Xawy? ?Wognir? Häusler aus Gödesin
 Josef Schwarz oo Theresia Richter	28.4.1839	13	Bräutigam: Joseph Schwarz Scheunenmeister in Gödesin Nr. 1, Sohn des Franz Schwarz Feldheger in Weitentrebetitsch 10 u dessen Gattin M.Anna geborene Gesenitzer aus Stresau Nr. 1, 41 Jahre | Braut: Theresia Tochter des +Johan Richter Bauers in Kunitz Nr. 13 und dessen Gattin M.Anna geborene Pohl aus Kunitz Nr. 18, 24 Jahre | Weitentrebetitscher Unterthan | Zeugen: Wenzl Richter, l??? Hofbesitze?  ?auf? der Kreis? ? ? ? ; Anton ?Metter??, Gastwirts in Gödesin
 Ferdinand ?Schwarz? oo Maria ?Kynnk? 	16.01.1888	62	Bräutigam (29.4.1864): Ferdinand ? ?Schwarz?, ?Tagewerker? Nr. 1 in Gödesin, ein ehelich Sohn des Ignaz ?Schwarz?, Schneider in ?Prokenitz? Nr. 32 bei ?Giesch? und der Anna, geb. Anton Sauer aus Poschau Nr. 5 Bezrik Luditz

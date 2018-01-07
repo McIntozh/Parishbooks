@@ -4,12 +4,15 @@ Index für Liebotitz (Libědice)
 
 Geburten
 
-L58/A (Index-Buch mit Brusy, Čejkovice, Libědice, Pětipsy, Račetice)
+L58/A (Index-Buch, 1715-1892 mit Brusy, Čejkovice, Libědice, Pětipsy, Račetice)
 
-Taufmatrik II
+L85/1 (1594-1714)
+TODO
+
+L85/2 (1715-1772) / Taufmatrik II
 Maria Catharina Schwarz		08.02.1722	47	Ratschitz, 8 Feb: hat Wentzl Schwarz? ein Junges Töchterl Nahmens |: Maria Catharina :| Taufen laßen ?lurb? aus der Jüzli Faust, dir ?Gfam? ?Jungers? ?Samer? Jungfers Catharina ?Potterin?, Testes Catharina Höferin, Sußana Potterin Wittin, Franz Hörberts Junggesell, ?medf? Johann ?Rerütze? ?reiße? alle ?von? Ratschitz
 
-Taufmatrik III
+L53/8 (1794-1841) / Taufmatrik III
 -
 
 Taufmatrik IV-VI
@@ -27,8 +30,11 @@ Franziska? Schwarz	25.12?.1889	VI 36	Infernitz? Haus Nr. 30
 ________________________________
 Tode
 
+L85/1 (1594-1715)
+TODO
+
 Sterbematrik Liebotitz IV L85/9 (nach Index)
-Marie Schwarz		10/12.06.1818	63	Haus Nr. 1, 9 Monate, Schwarz Marie, ehl Töchterchen des Franz Johann Schwarz, ? ? aus ?Prag? gebürtig, und der Frau Anna geb. S?ldscheb? aus ?Prag?
+Marie Schwarz		10/12.06.1818	63	Haus Nr. 1, 9 Monate, Schwarz Marie, ehl Töchterchen des Franz Johann Schwarz, ?inmortger ?ehaft?bereiters aus ?Prag? gebürtig, und der Frau Anna geb. S?ldscheb? aus ?Prag?
 
 Sterbematrik Tschekowitz IV L85/14 (nach Index)
 Josefa Schwarz		24/28.11.1850	57	Haus Nr. 18, 18 Jahre, Josefa Schwarz, Dienstmagd in Tschekowitz Nr. 18 gebürtig aus ?Millerz?, Gedärmentzündung
@@ -49,7 +55,11 @@ ________________________________
 
 Trauungen
 
+L85/1 (1594-1715)
+TODO
+
 L85/A (Index), Ab Scan 100
+
 Trauungsmatrik II
 -
 

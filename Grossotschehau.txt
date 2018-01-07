@@ -2,14 +2,17 @@ Grossotschehau (Očihov)
 
 
 Geburten
-L118/5 (1744-1753, nach Index)
-? Joannes Wenceslay Schwartz		20.8.1745	11	... Joannis Schwartz ... Katharina nata ?Zweteg(in)?
+L118/5 (1744-1784, nach Index)
+Joannes Wenceslay Schwartz		20.8.1745	11	... Joannis Schwartz ... Katharina nata ?Zweteg(in)?
 Anna Rosalia Schwarz			17.8.1746	17	... Christophori Schwartz ... Elisabetha nata ?Schmiet(in)? ... Elisabetha ?Flugg(in)?
 Maria Catharina Schwarz			25.3.1748	26	... Joannis Schwartz ... Catharina nata ?Zwetig(in)?
 Maria Magdalena Schwarz			7.7.1749	36	... Christophori Schwartz ... Elisabetha nata ?Schmiedt(in)?
 Anna Catharina Schwarz			22.10.1751	52	... Christophori Schwartz ... Elisabetha nata ?Schmiedl(in)?
 
+Scan 72->TODO
+
 L118/6 (1753-1784 nach Index, Scan 34-88, Index Scan 89-96)
+Scan 51->TODO
 Joannes Antonius Schwarz		18.5.1767	63	... Martini Schwarz ... Elisabetha ...
 Catherina Veronica Schwarz		71
 Jos.? Stephany Schwarz			74
@@ -19,6 +22,9 @@ Jos? Thomas Schwarz			88
 Lambertus Matthaus Schwarz	14.10.1878	92	Haus Nr. 36, Eltern: Marteies? Schwartz rustikus Mat. Anna Maria nata ?Kager(in)? persona Subdita Martini ?Praus?
 Maria Magdalena Schwarz			102
 
+Josephus Martinus Balzer	03.11.1757	29	Testes: Elisabetha Schwartz(in) ex magno Otschohau
+Maria Theresia Michsch		20.04.1758	31	Testes: Joames Martinus Schwartz ex magno Otschohau
+Maria Clara Erdreich		22.08.1758	33	Eltern: Joannis Georgy Erdreich | Anna Eva Schwartz(in)
 
 L118/17 (1784-1858 nach Index)
 Wenzl Jakob Schwarz		24.6.1792	9	Haus Nr. 18, Eltern: Georg Schwarz ein Maurergesell | Elisabetha geborene Grim(in)
@@ -53,10 +59,11 @@ L118/5 (1744-1753, nach Index, Trauungen ab Scan 212)
 -
 
 L118/6 (1753-1784 nach Index, Scan 1-26, Index Scan 27-33)
-Martin Schwarz oo Elisabeth Schimerich		24.10.1758	9	Martinum Christophori Schwarz ... Anna Elisabetha ... Schimerich...
-Martin Schwarz oo Elisabeth Steidl			14
+Johann Georg Erdreich oo Anna Eva Schwartz	03.02.1754	3	... Johann Georg des in Gott ruhends Petter Erdtreich Hausgenoss in Groß-Otschehau ehl erzeügter Sohn, mit der Anna Eva, des Johannes Schwartz Hausgenoss in Groß-Otschehau ehl. erzeügter Tochter ... die zeugen waren: Matrin Höberts Bauer, Christoph Schwartz Bauer, beide aus Groß-Otschehau
+Martin Schwarz oo Elisabeth Schimmerich		24.10.1758	9	Martinum Christophori Schwarz ... Anna Elisabetha ... Schimmerich...
+Martin Schwarz oo Elisabeth Steidl		09.09?.1761	14	Joannes Martinus Schwartz videm et rusticus ex pago magno Otschehau ...  Elisabetha defuncti Steidl
 Martin Schwarz oo Maria ?Koper?			26.?.1764	22	Martinus Schwarz ... Maria, Wenceslai ?Sloggers? rustica fila
-Georg Schwarz oo Catherina Sterban			31
+Georg Schwarz oo Catharina Sterban		02.10.1775	31	Haus Nr. 22
 
 L118/20 (1784-1885 nach Index)
 Lamberth Schwarz oo Maria Anna Palzer	16.11.1802	8	Haus Nr. 36, Brätigam (24 Jahre ~ 1776): Schwarz Lambert, ehl. Sohn des ?Josef? Martin, Bauer | Braut (22 Jahre): ? Palzer(in) Maria Anna ehl. Tochter des Peter Palzer, Bauers allda Nr. 53

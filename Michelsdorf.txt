@@ -10,6 +10,7 @@ Michelsdorf
 -
 
 173/2 (1747-1784)
+TODO siehe Weitentrebetitsch
 Schwarz als Levans:	18.09.1752	Scan 50	Baptisatus est Filius illegitime natus Matheus Josephus eg Matre Maria Christina ?Eberhain?. Levans Joseph Schwartz, Testis Elisabetha ?Friederin? 
 
 
@@ -40,7 +41,7 @@ Karl Schwarz 10.1880 P334
 Anna Schwarz		22/25.10.1881	341	Haus 13, Eltern: Schwarz Josef ? aus Nr. 13, Genietagi?tes ? u Tagarbeiter in ?Urla? 14, ehl Sohn des +Franz Schwarz, ? in Michelsdorf 13 u der Anna geb. Müller aus Pröllas Nr. 5, Bz? Podersam | Anna ehl. Tochter des Bohn Franz ?Häuslers? u Tagarbeiters in ? Nr. 12 u der Johanna geb. Pesetha aus ?Permitsch? Nr ?1? Gzb ?Luditz?
 Johan? Schwarz? 2.1883 P6 
 Maria? Schwarz 2.1884 P8
-? Schwarz 2.1885 P10
+? Schwarz 2.1885 P10 von ?T
 
 Lou? Schwarz 05.1902 S57
 M? Schwarz 04.1905 P65
@@ -56,6 +57,13 @@ Margaretha Schwarz 5.1918 P92
 
 __________________________________________________
 Tode
+
+173/1 (1733-1746, Scan 46-63)
+Scan 52->TODO  (auch Weitentrebetitsch)
+
+L173/2 (1747-1784, versorbene ab Scan 83)
+Scan 87->TODO (auch Weitentrebetitsch)
+
 
 L173/A (Indexbuch), tatsächliches Totenbuch scheint zu fehlen
 M.Anna Schwarz(in)	9.1794	10
@@ -82,11 +90,11 @@ Anna Schwarz		12.1899	141
 
 __________________________________________________
 Trauungen
-173/1 (1733-1746, Ab Scan 36)
-Scan 39->TODO
+173/1 (1733-1746, Scan 36-45)
+Scan 42->TODO
 
-L173/2
-Joannes Josef Schwartz?	5.5.1753	Scan 62	oo Maria Susanna Stunde ex Schönhofensis
+L173/2 (1747-1784)
+Joannes Josef Schwartz oo Maria Susanna Stund	5.5.1753	Scan 62	5 Maty Copulatus est proua derna denuntiatone idest 18, 25 Feb, et 4 Marty ... Joannes Joseph, Georgis Schwartz eg Cagotrads Filius , cum Maria Susanna defuncti Joannis Stund ex Schönhoff Filia...
 
 Später (Buch scheint zu fehlen)
 Franz Schwarz ?oo M.Anna Friedman?	1815		20

@@ -20,6 +20,10 @@ TODO
 
 ___________________________________
 Tode
+
+L104/1 (1743-1784, nach Index, Scan 266-357, Rust 376-378, Wärzen 380-381, Gödesin 382-383 Index 357-375, Rust 379, Wärzen 381, Gödesin 383)
+Anna Elisabetha Schwarz	07.09.1750	596	Pomeisl, Die 7. Septembry Anna Elisabetha uxor vagabundi mendici Josephi Swartz mortua est. ..., 75 Jahre
+
 L104/6 (nach Index)
 Anton Schwarz			17.06.1794	16	Haus Nr. 43, Ein Sohn des Mathäus Schwarz ?aigen ?Schecheihenmeißter?, 1/4 Jahr
 Hubert Schwarz			12.04.1843	111	Haus Nr. 130, Hubert Sohn des Hubert Schwarz heisiger Sattlermeisters, 2 Jahre 3 Monate

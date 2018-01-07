@@ -4,7 +4,11 @@ Index für Pröhlig (Přívlaky)
 
 Geburten:
 
-L153/A (Index-Buch)
+L153/B (Index-Buch, 1684-1737)
+-
+
+L153/A (Index-Buch, 1738-1796)
+
 
 L153/1 (1738-1796)
 Maria Anna Schwarz	12.8.1785	278 (Scan 144)	Haus Nr. 12, Eltern: Franz Schwarz | Maria Anna [selbes Haus wie 1774, 1777 & 1795 Gößnitzer, Sie wird wohl Gößnitzer heißen]
@@ -38,16 +42,26 @@ Theresia Gößnitzer	5.9.1809	14	Haus Nr. 12
 _________________________________________
 Tode
 
-L153/A (Index-Buch) nicht nach Gößnitzer gesucht
+153/C (Index-Buch, 1684-1729)
+-
+
+L153/A (Index-Buch, 1738-1796) nicht nach Gößnitzer gesucht
 L153/1 (1738-1796 Tode ab Scan 161)
-Magaretha Schwärtz	29.3.1742	13	Tenetitz 152?, Den 29 März ist Margaretha Schwärtzin ein Betlsweib gebürtig aus ?Pautzen?, wohli? katholisch gewesen gestorben und den 30 h?ij begraben worden
+Magaretha Schwärtz	29.3.1742	13	Tenetitz, Den 29 März ist Margaretha Schwärtzin ein Betlsweib gebürtig aus Pautzen [Bauzen? = Bousov / Dolní Bousov], wohli? katholisch gewesen gestorben und den 30 h?ij begraben worden
 
 
 
 _________________________________________
 Trauungen
 
-L153/A (Index-Buch) nicht nach Gößnitzer gesucht
-L153/1 (1738-1796 Trauungen ab Scan 228)
+153/C (Index-Buch, 1684-1737, nur A-M)
+-
 
+L153/A (Index-Buch, 1738-1796) nicht nach Gößnitzer gesucht
+-
+
+L153/1 (1738-1796 Trauungen ab Scan 228)
+-
+
+Johann Thomas Gube oo Theresia Gößnitzer	13.11.1787	913? (Scan 272), Haus Nr. 6+12, Bräutigam (25 Jahre): Johann Thomas Gube aus Rathigau | Braut (23 Jahre): Theresia Gößnitzer aus Pröhlig | Testes: Ferdinand Richter, Schafmeister in Pröhlig, Franz Schwarz, Taglöhner in Weitentrebetitsch
 

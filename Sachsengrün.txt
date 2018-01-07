@@ -3,7 +3,7 @@ Sachsengrün (Zakšov), inkl. Ranzengrün, Oberlomitz und Meierhof Dunkelsberg
 
 Geburten:
 Pilsen Zakšov 01 (1650-1760, Scan 0-152), inkl. Ranzengrün, Oberlomitz und Meierhof Dunkelsberg
-?Joamy? Schwartz		26.09?.1650	2	Rantzengrün, Eltern: Simon Schwartz | Maria 
+?Joamy? Schwartz		26.09?.1650	2	Rantzengrün, Eltern: Simon Schwartz [*~1621] | Maria [*~1637]
 Elisabetha Schwartz		17.08.1654	4	Rantzengrün, Eltern: Simon Schwartz | Maria 
 Katharina Schwartz		29.05.1658	7	Rantzengrün, Eltern: Simon Schwartz | Maria 
 Mathias Schwartz		10.02.1672	19	Eltern: Johannes Schwartz | Barbara
@@ -24,7 +24,7 @@ Maria Clara Schwartz		27.01.1752	141	Eltern: Wenceslai Schwartz | Clara Zettlitz
 Gertrudis Schwartz		15.Xtins.1753	143	Eltern: Wenceslai Schwartz | Clara Zettlitzer(in) | ...
 Anna Catharina Schwartz		10.10.1755	144	(Nr. 11?) Eltern: Wenceslai Schwartz | Clara Zettlitzer(in) | ...
 Joes Wenc. Hieronimus Schwartz	29.?.1757	146	Eltern: Wenceslai Schwartz | Clara Zettlitzer(in) | ...
-Maria Elisabetha Schwartz	22.09.1758	147	Eltern: Christophori Schwartz | Catharina Schöner sub. ditis Lizzau... | ...
+Maria Elisabetha Schwartz	22.09.1758	147	Eltern: Christophori Schwartz | Catharina Schöner [Schöniger] sub. ditis Lizzau... | ...
 Fanciscus Maximilianus Schwartz	11.07.1760	149	Eltern: Wenceslai Schwartz | Clara Zettlitzer(in) | ...
 
 Antoni Zetlitzer		05.01..1698	41	Eltern: Peter Paul Zetlitzer, [Schulmeister] | Katharina | ... Peter Paul Zetlitzer der? Zeit Schul und ?hen ?Ledeiber?...
@@ -77,19 +77,37 @@ Sigismund Schwarz		1856		230
 
 ________________________________
 Tode
+
+Pilsen Zakšov 01 (1650-1765, ab Scan 199)
 TODO
 
 
 ________________________________
 Trauungen
-Pilsen Zakšov 01 (1650-1765, ab Scan 152)
+Pilsen Zakšov 01 (1650-1765, Scan 152-198)
 
-Johannes Schwartz oo Barbara ?Lüttl?	8.10.1671	184	Den 8 October Copulirt worden. Johannes Schwartz von Rantzengrün mit Barbara ?Lüttlin, des Lorentz ?Lüttlers von Sachsengrün ehliche Tochter, Testes ...
+Johannes Schwartz oo Barbara ?Lüttl?		8.10.1671	184	Den 8 October Copulirt worden. Johannes Schwartz von Rantzengrün mit Barbara ?Lüttlin, des Lorentz ?Lüttlers von Sachsengrün ehliche Tochter, Testes ...
 Scan 156->TODO<-Scan 161
-Matheus Schwartz oo Elisabetha Kutt	13.10.1698	191	Den 13 October ? Copulirt worden, Matheus Schwartz mit Elisabetha Kuttin, des Jacobes Kutter allda ehliche Tochter, Testes ... 
+Matheus Schwartz oo Elisabetha Kutt		13.10.1698	191	Den 13 October ? Copulirt worden, Matheus Schwartz mit Elisabetha Kuttin, des Jacobes Kutter allda ehliche Tochter, Testes ... 
 Scan 163->TODO
+TODO<-Scan 193
+Wentzl Schwarz oo Clara Zettlitzer 		13.7.1751	221	dy 13 July ist der Ehrbare Jungesel Wentz, des Johann Schwarz Bauer im Dorf Sachsengrün ehelich erzeugter Sohn mit der ? Jungfer Clara, des Anton Zettlitzer Maurer auch in Sachsengrün ...
+Christophorus Schwarz oo Catharina Schöner	5.7.1757	223	Ranzengrün & Saxengl, Die 5 July honestes Sponsie Christophores Schwarz, Joamy Schwarz rustici ex Saxengl. filius legitimus cum honesta Sponsa Catharina Schönigerin, Christophori Schöniger rustico ex Ranzengrün filia hac manunista Conformit cissei decati pednisty filla ...
+
+
 
 Pilsen Zakšov 05 (1761-1930, nach Index)
 ? oo Margaretha? Schwarz		29.02.1832	46	Haus Nr. 11, Bräutigam: ... | Braut (33 Jahre ~1799): ?Margaretha? Schwarz, ehl. Tochter des Wenzl Schwarz, Schneidermeisters in Sachsengrün NC. 11 ... und der M.Anna ?...?
 Johann Schwarz oo Theresia ?		02.?.1832	46	Haus Nr. 11, Bräutigam (26 Jahre =1805): Johann Schwarz ehl. Sohn des Wenzl Schwarz, Schneidermeisters in Sachsengrün NC. 11 ... und der M.Anna geb. ?N? ?...?  | Braut: ...
 Ferdinand Pschorn oo Franziska Schwarz	20.05.1873	79	Bräutigam: ... | Braut: Franziska Schwarz, ehl. Tochter des +Anton Schwarz, Häuslers in Sachsengrün NC. 3 ... und der M.Anna geb. Weis aus dörfles NC. 14
+
+
+
+________________________________
+Untertanenverzeichnis Saaz 1651
+Ort: Ranzengrüner
+Simon Schwart, Haugenoß, 30 Jahre
+Maria, Weib, 24 Jahre
+Johannes, Kind, 6 Jahre
+Margareth, Kind, 4 Jahre
+Mathes, Kind, 2 Jahre

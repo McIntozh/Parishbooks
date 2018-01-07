@@ -3,8 +3,16 @@ Index für Teutschenrust (Podbořanský Rohozec)
 
 
 Geburten
-L104/10 (anhand Index)
-Franz Josef Schwarz	3.8.1787	2	Haus Nr. 23, unlegitimiert, Mutter: Maria Anna geboren Martin Schwarz(in) | Weitentrebetischer Unterthan
+
+L104/1 (1742-1784, nach Index, Scan 1-137, 156-160, 162-164, 166-167, unlegit Scan 169-175, 183-189, Index Scan 137-155, 160-161, 165, 168, 175-183 )
+Anna Elisabetha		3.3.1762	136	Martin Svartz | Sylvia [oo 25.01.1757 Weitentrebetisch]
+Franz Josef Schwarz	23.02.1766	166	Martinus Schwartz | Sylvia
+Joannes Schwarz		27.08.1769	195	Martini Swartz | Sylvia nata filia Joanny Andoni Zeidler (Zeitler)
+Franz Wenzl Schwarz	28.10.1772	220	Haus Nr. 23, Martinus Swartz | Sylvia
+
+
+L104/10 (1784-1848, anhand Index, Index ab Scan 70)
+Franz Josef Schwarz	03.08.1787	2	Haus Nr. 23, unlegitimiert, Mutter: Maria Anna [*26.01.1759 Gödesin] geboren Martin Schwarz(in) | Weitentrebetischer Unterthan
 Franz ?Kaus?		31.7.1798	14	Haus Nr. 20, Eltern: Anton Kraus, Zimmergesell ?alda? | Katharina geborene Schwarz(in) aus (Deutschen)Ruß Nr. 20 | Weitentrebetischer Unterthan
 Franz Wenzel Schwarz	13.5.1800	16	Haus Nr. 3, Eltern: Wenzl Schwarz Schneidergesell allda | M.Anna geborene Bartlin ni (Deutschen)Rust Nr. 3 | Weitentrebetischer Unterthan
 M.Anna Schwarz(in)	04.2.1801	19	Haus Nr. 29, Eltern: Wenzl Schwarz Schneidermeister | M.Anna geborene ?Barthlei? zu (Deutschen)Rust Nr. 3 | Weitentrebetischer Unterthan
@@ -33,10 +41,18 @@ Maria Catharina Anna Wenisch 	9.8.1802	20	Haus Nr. 5, Eltern: Bendik Wenisch, Ba
 
 ________________________________
 Tode
-L104/14 (anhand Index):
-Schwarz Franz Josef	13?.09.1787	2	Haus Nr. 23
-Schwarz(in) ?Silivia?	24.11?.1788	2	Haus Nr. 23
-Schwarz(in) Rosalia	24.04.1797	4	Haus Nr. 23
+
+L104/1 (1743-1784, nach Index, Scan 266-357, Rust 376-378, Wärzen 380-381, Gödesin 382-383 Index 357-375, Rust 379, Wärzen 381, Gödesin 383)
+Franciscus Schwarz	12.02.1761	644	Franciscus, filius Marini Schwartz
+Anna Elisabetha Schwarz	14.08.1764	667	Anna Elisabtha, filia Martini Swartz
+Josephus Schwarz	24.01.1769	688	Josephus filius Martini Swartz
+Joannes Schwarz		11.09.1770	695	Joannes filius Martini Swartz
+Theresia Schwarz	08.01.1783	788	Haus Nr. 23, Schwarzinn Theresia Maria Anna Schwarzinn Filia, 8 Monate 13 Tage
+
+L104/14 (1784-1911, nach Index):
+Schwarz Franz Josef	10.09.1787	2	Haus Nr. 23, Franz Joseph Schwarz, Sohn der Maria Anna Schwarz(in), 1/12 Jahr [*03.08.1787], Frais
+Schwarz(in) Silivia	24.10.1788	2	Haus Nr. 23, Sylvia Schwarz(in), Eheweib des Taglöhners Martin Schwarz, 59 Jahre ,Lungensucht
+Schwarz(in) Rosalia	24.04.1797	7	Haus Nr. 23, Rosalia Schwarz(in), hinterbliebene Tochter des verstorbenen Hausgenossen Martin Schwarz zu Rust, 20 Jahre, an der Geschwulst
 Schwaz(in) Maria Anna	08.?.1801	10	Haus Nr. 29
 Schwarz(in) Rosalia	23.06.1805	12	Haus Nr. 43
 Josef Schwarz		5.8?.1831	30	Haus Nr. 43
@@ -61,8 +77,10 @@ Schwarz Anton		20.10.1884	97	Haus Nr. 81
 ________________________________
 
 Trauungen
-M.Anna Schwarz oo Joh. Wenzl Müller	22.01.1788	1?	Haus Nr. 23, Brätutigam: Johan Wenzel Müller ? ? Alter: 30, Braut: Maria Anna Schwarzin ? ?Tochter? Martin Schwarz Alter: 28
-Anna Schwarz oo Anton Schuh		12.01.1840	33	Haus Nr. 43, Brätutigam: Anton Schuh ? in Deutschenrust Nr 3 Sohn des ? Schuh Zimmer(er)geselle in Deutschenrust Nr.23 und dessen Gattin M.Anna geborene G?m in ?upchreitz? Nr. 12, 29 Jahre, Gattin: Anna Tochter des  +Wenzl Schwarz ?Häuslers? und ?Schneidermeisters? in Deutschenrust Nr 43  und dessen Gattin M.Anna geborene ?Reutl? in Deutschenrust Nr. 3
+
+L104/13 (1784-1882, nach Index)
+M.Anna Schwarz oo Joh. Wenzl Müller	22.01.1788	1	Haus Nr. 23, Brätutigam (30 Jahre): Johan Wenzel Müller ? Braut (28 Jahre [*26.01.1759 Gödesin]): Maria Anna Schwarzin Taglöhner Tochter Martin Schwarz
+Anna Schwarz oo Anton Schuh		12.01.1842	33	Haus Nr. 43, Brätutigam (29 Jahre): Anton Schuh Hofknecht in Deutschenrust Nr 3 Sohn des ? Schuh Zimmer(er)geselle in Deutschenrust Nr.23 und dessen Gattin M.Anna geborene G?m in ?upchreitz? Nr. 12 | Braut (39 Jahre): Anna Tochter des  +Wenzl Schwarz ?Häuslers? und ?Schneidermeisters? in Deutschenrust Nr 43  und dessen Gattin M.Anna geborene Bartl in Deutschenrust Nr. 3, ? ? ? Folio 24
 Rosalia Schwarz oo Franz Fischer	24.?.1847	37	Haus Nr. 43, Brätutigam: Franz Fischer ... Braut: Rosalia Schwarz, Tochter des Wenzl Schwarz des Häuslers und Schneidermeisters im Dorfe Deutschenrust Nr 43  und dessen Gattin M.Anna geborene ?Beumtl? in Deutschenrust Nr. 3
 Jakob Schwarz oo Theresia ?Kaues?	?.?.1880	39	Haus Nr. 20, Brätutigam: Jakobes Schwarz Häusler und Zimmermann in Weitentrebetisch Nr. 39 und Sohn des Jakob Schwarz Zimmermann Michelsdorf Nr. 37 ? in Weitentrebetisch Nr. 39 und dessen Gattin Barbara geborene ?Tetpuh? aus Michelsdorf Nr. 37, Alter 27, Braut: Theresia Tochter der Anna ?Kaues? s...
 Johan Schwarz oo Ma.An. ?Bntseher?	24.11.1886	60	Haus Nr. 18, Brätutigam: Johan Schwarz, Schneiders in Teutschenrust Nr. 18 eri Sohn des +Wenzl Schwarz ... und dessen Gattin Anna geborene ?Reutl?, Alter: 60 Jahre, Braut: Maria Anna ?Bntseher?

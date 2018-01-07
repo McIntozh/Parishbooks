@@ -6,7 +6,7 @@ Geburten
 
 L118/5 (1744-1784, nach Index, unehel. ab Scan 205)
 Anna Elisabetha Magdalena Schwarz		11.10.1755	74	... Josephi Schwartz ... Susanna nata ?Grund(in)?
-Joannes Josephus Mathias Schwarz		18.3.1759	89	... Josephi Schwartz ... Susanna nata ?Grund(in)?
+Joannes Josephus Mathias Schwarz		18.3.1759	89	... Josephi Schwarz inquilini es Lubau et uxor sua Susanna Grundin ...
 
 L118/7 (1784-1833, nach Index)
 -
@@ -18,4 +18,7 @@ Tode
 ______________________
 Trauungen
 L118/5 (1744-1784, nach Index, Trauungen ab Scan 212)
+-
+
+L118/12 (1784-1867, nach Index, Lubau ab Scan 120)
 -
