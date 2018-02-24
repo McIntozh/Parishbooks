@@ -4,7 +4,10 @@ Geburten
 
 L97/A (1784-1824 Index Buch)
 
-?Wo? Theresia Schwarz	1800?			Chistoph Schwarz
+
+L97/4 (1772-1784, nach Index)
+-
+
 
 L97/15 (1785-1811)
 Maria Theresia Schwarz	26.9.1806	159	Haus Nr. 7, Eltern: Chistoph Schwarz, Schneidermeister, ehel. Sohn des +Wenzl Schwarz Taglöhners in Sachsengrün Nr. 11 | Barbara, ? Tochter des +Andreas Weiss Taglöhners in Emanuelshof Nr. 7
@@ -21,7 +24,12 @@ Wenzl Schwarz		29.12.1822	100	Haus Nr. 5, Eltern: Chistoph Schwarz, Schneidermei
 ________________________________
 Tode
 
+L97/4 (1772-1784)
+TODO
 
 
 ________________________________
 Trauungen
+
+L97/4 (1772-1784)
+TODO

@@ -2,31 +2,40 @@
 Index für Tscheraditz (Čeradice), Miltschowes (Milčeves), Milloschitz (Milošice), Raitschowes (Radíčeves)
 
 Geburten
-138/4 (Tscheraditz) Scan 27-78
+
+138/1 (1677-1761, Scan 1-166, Scan 167-171 (illeg.), Scan 172-196, Scan 236-237)
+TODO<-Scan 162
+Scan 166->TODO
+
+138/4 (Tscheraditz 1784-1862) Scan 27-78
 Susanna Schwarz(in)		7.1.1789	28	Haus Nr. 5, Eltern: Franz Schwarz Taglöhner | Maria Anna Gößnitzer(in)
 Johann Paul Karl Schwarz	26.6.1791	30	Haus Nr. 5, Eltern: Franz Schwarz T? ?Weinernitsch? | Maria Anna Gößnitzer(in)
 Franz Karl Schnaryz		16.05.1796	34	Haus Nr 17: Andres Schnaryz Taglöhner | Joseepha Hopfin
-Scan 46->TODO
+Scan 47 (1812)->TODO
 
 
 
-138/2 (Index)
-Anna Katharina Schwarz	1.2.1771	44	Milloschitz
-Franz Anton Schwarz	19.1.1774	58	Miltschowes
-
-Magdalena Schwarz(in)	26.06.1824	26	Milloschitz Nr. 3
+138/2 (1762-1784, nach Index, Index ab Scan 38)
+Anna Katharina Schwarz	1.2.1771	44	Milloschitz, Schwartz Joa: Wen: [Johannes Wenzl] optarius Miltschowes, Mater: Rosalia legitima Filia defti Georgü Neudert operaü Miltschowensis ambo subditi CZermiani
+Franz Anton Schwarz	19/20.1.1774	58	Miltschowes, Schwartz Wenc: Ingvilimy, Mater: Rosalia nata Neydertin ambo subditi CZermiani
 
 
-138/6 (Miltschowes) (Geburten ab Scan 23)
+
+
+
+138/6 (Miltschowes, 1784-1863) (Geburten ab Scan 23)
 Joseph Schwarz		19.6.1789	25	Haus Nr. 10, Eltern: Unbekannt | Maria Anna Schwarz(in) Dienstmagd
 Franz Joseph Schwarz	20.04.1799	28	Haus Nr. 18, Eltern: Joseph Schwarz Taglöhner in Miltschowes | Maria Anna geborene ?Griger(in)?
 Katharina Schwarz(in)	1.02.1801	29	Haus Nr. 18, Eltern: Joseph Schwarz Taglöhner ?| Anna Maria Tochter des W Griger und der Anna M. ?rin ?Kölleghowitz? Nr. 29
 Rosalia Schwarz(in)	21.06.1803	30	Haus Nr. 18, Eltern: Joseph Schwarz ? Taglöhner| Anna Maria Tochter des Wenzl Griger und der A Maria ?Berin? aus Pöllschowitz Nr. 29
 Scan 31 ->TODO
 
-Magdalena Schwarz	19.08.1822	26	Miltschowes Nr. 8
+?
 Franz Schwarz		16.11.1823	53	Miltschowes Nr. 20
 
+138/10 (Milloschitz 1784-1885, Geburten ab Scan 15)
+Magdalena Schwarz	19.08.1822	26	Milloschitz Nr. 3, +24.10.1823, Eltern: Anton Schwarz Schneidermeister alda | Josepha, Tochter des Joseph ?Rose? Bürgers in Rudig und der M.Anna Neukirchnernin dessen Eheweib aus ?Petersberg? gebürtig
+Magdalena Schwarz	26/27.06.1824	27	Milloschitz Nr. 3, Eltern: Anton Schwarz Schneidermeister alda, ehelicher Sohn des Joseph Schwarz Taglöhner in Kaaden Nr. 406 | Josepha, Tochter des Joseph ?Rosen? Bürgers in Rudig Nr.38 und der Maria Anna Neukirchnernin dessen Eheweib aus ?Petersberg? Nr. 10 Herrschaft Petersberg
 
 138/3 (Reitschowes) (Scan 26-
 Scan 33->TODO
@@ -58,6 +67,10 @@ Scan 84->TODO
 
 ________________________________
 Trauungen
+
+138/1 (1677-1761, ab Scan 196)
+TODO
+
 138/4 (Tscheraditz) Scan 1-27
 Joseph Schwarz oo Elisabetha Schmalfuß	22.5.1785	Haus Nr. 12?, Bräutigam: Joseph Schwarz ?i?s-Sohn in Saatz, 20 Jahre | Braut: Elisabetha Schmalfuß Schusters-Tochter in Tscheraditz, 24 Jahre
 Scan 7->TODO

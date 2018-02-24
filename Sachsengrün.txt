@@ -2,6 +2,10 @@ Sachsengrün (Zakšov), inkl. Ranzengrün, Oberlomitz und Meierhof Dunkelsberg
 
 
 Geburten:
+
+Pilsen Doupov 01 (1623-165)
+TODO
+
 Pilsen Zakšov 01 (1650-1760, Scan 0-152), inkl. Ranzengrün, Oberlomitz und Meierhof Dunkelsberg
 ?Joamy? Schwartz		26.09?.1650	2	Rantzengrün, Eltern: Simon Schwartz [*~1621] | Maria [*~1637]
 Elisabetha Schwartz		17.08.1654	4	Rantzengrün, Eltern: Simon Schwartz | Maria 
@@ -37,23 +41,23 @@ Marie Susanne Schwarz		25.?.1765	15	(Nr. 29?) Eltern: ... Christophori Schwartz,
 Maria Magdalena Schwarz		14?.10.1766	19	(Nr. 11?) Eltern: ... Wenceslai Schwartz, Clara Zettlitzer
 Francisus Josephus Schwarz	6.8.1768	26	Eltern: ... Christophori Schwartz, Catharina Schöner ...
 Christophorus Adamus Schwarz	13.?.1768	27	Eltern: ... Wenceslai Schwartz, Clara Zettlitzer
-Maria Katharina Schwarz		1771		33
+Maria Katharina Schwarz		12/13.03.1771	33	Haus Nr. 29, Eltern: Christophori Schwartz rusticus et uxor Catharina [Schöner]
 Joseph Wenclaus Schwarz		8/9.1.1776	47	Haus Nr. 11, Mutter: Gertrudis Schwarz
 Christoph Schwarz		2/3.11782	60	Haus Nr. 11, Mutter: Catharina Schwarz 
 Mar. Josepha Elisabetha Schwarz	11.10.1787	67	Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna
-Maria Theresia? Schwarz		1789		69
-Maria Anna Kath. Schwarz	1789		70
-?Bennedikt? Schwarz		1791		72
-Maria Anna Schwarz		1793		74
-Joseph Leopold Schwarz		1796		78
+Maria Theresia Schwarz		14.06.1789	69	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ..?..
+Maria Anna Katharina Schwarz	16.08.1789	70	Haus Nr. 11, Mutter: Katharina Schwarz
+Hieronymus Anton Schwarz	17.07.1791	72	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna geboren ?Neydert?
+Maria Anna Elisabetha Schwarz	03.06.1793	74	Haus Nr. 11, Eltern: Wenzl Schwarz von hier Nr. 11 | Maria Anna geboren Neydert aus Pulwitz [Pullwitz/Pulovice] Nr. 16
++Joseph Leopold Schwarz		08.07.1796	78	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna des Merternus Neydert, Webermeisters ..?.. Nr. 16 zur Herrschaft Geishübl unterthan
 Apolonia? Elis? Schwarz		12.11.1798	81	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ..?..
-Leopold Schwarz			1801		86
+Leopold Schwarz			20.12.1801	86	Haus Nr. -,  Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ehel. Tochter des Marternus Neidert, Webera aus Pulwitz Nr. 16 ? Herrschaft
 - Schwarz			1804		89	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ..?..
 Johannes Schwarz		1805		91	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ..?..
-Maria Theresia Schwarz		13.10.1807	93	Haus Nr. 29, Eltern: Christoph Schwarz, Schuhmachergesell | Maria Anna ehl. Tochter des Anton ?iß, Sch?meisters ...
+Maria Theresia Schwarz		13.10.1807	93	Haus Nr. 29, Eltern: Christoph Schwarz, Schuhmachergesell | Maria Anna ehl. Tochter des Anton ?iß, Schustmeisters ...
 Franz Anton Schwarz		1810		98	Haus Nr. 11, Eltern: Wenzl Schwarz, Schneidermeister | Maria Anna ..?..
 Franz Anton Schwarz		1811		99	Haus Nr. 11, Mutter: Theresia Schwarz, Tochter des Wenzl Schwarz...
-Anton Schwarz			1817		110
+Anton Schwarz			07.02.1817	110	Haus Nr. 3, Eltern: Christoph Schwarz, Häusler | Maria Anna ehliche Tochter des Anton ?Reis? ? Schustermeister aus ? Nr. 45 und Susanna S?ch? aus Sachsengrün Nr. 6 ..?.. Herrschaft | Maria Anna Schwarz, Hebamme ? Sachsengün
 Theresia Schwarz?		1817		110
 Joseph Schwarz			1819		116
 -Franziska? Schwarz		1821		127-
@@ -78,18 +82,25 @@ Sigismund Schwarz		1856		230
 ________________________________
 Tode
 
+Pilsen Doupov 01 (1623-165)
+TODO
+
 Pilsen Zakšov 01 (1650-1765, ab Scan 199)
 TODO
 
 
 ________________________________
 Trauungen
-Pilsen Zakšov 01 (1650-1765, Scan 152-198)
 
+Pilsen Doupov 01 (1623-165)
+TODO
+
+Pilsen Zakšov 01 (1650-1765, Scan 152-198)
 Johannes Schwartz oo Barbara ?Lüttl?		8.10.1671	184	Den 8 October Copulirt worden. Johannes Schwartz von Rantzengrün mit Barbara ?Lüttlin, des Lorentz ?Lüttlers von Sachsengrün ehliche Tochter, Testes ...
-Scan 156->TODO<-Scan 161
+Franz ? oo Margaretha Schwartz			21.11.1677	185	Ranzengrün, Den 21. November Copuliert worden, Franz ? aus der ?Langen grün?, mit Margaretha Schwartz(in) des Simons Schwartz(er) aus der Rantzengrün ehelich Tochter 
+Scan 157->TODO<-Scan 161
 Matheus Schwartz oo Elisabetha Kutt		13.10.1698	191	Den 13 October ? Copulirt worden, Matheus Schwartz mit Elisabetha Kuttin, des Jacobes Kutter allda ehliche Tochter, Testes ... 
-Scan 163->TODO
+Scan 169->TODO
 TODO<-Scan 193
 Wentzl Schwarz oo Clara Zettlitzer 		13.7.1751	221	dy 13 July ist der Ehrbare Jungesel Wentz, des Johann Schwarz Bauer im Dorf Sachsengrün ehelich erzeugter Sohn mit der ? Jungfer Clara, des Anton Zettlitzer Maurer auch in Sachsengrün ...
 Christophorus Schwarz oo Catharina Schöner	5.7.1757	223	Ranzengrün & Saxengl, Die 5 July honestes Sponsie Christophores Schwarz, Joamy Schwarz rustici ex Saxengl. filius legitimus cum honesta Sponsa Catharina Schönigerin, Christophori Schöniger rustico ex Ranzengrün filia hac manunista Conformit cissei decati pednisty filla ...
