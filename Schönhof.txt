@@ -2,7 +2,9 @@ Index für Schönhof (Krásný Dvůr)
 
 Geburten
 L12/3 (1718-1770, illegitimierte ab Scan 138-143)
-TODO<-Scan 133
+TODO<-Scan 83 (1752)
+-
+Scan 102 (1760)->TODO<-Scan 133
 -
 Scan 136->TODO
 
@@ -38,7 +40,7 @@ L12/3 (1718-1770, ab Scan 143-186)
 Scan 147->TODO
 
 L12/4 (Trauungen ab Scan 80)
-Josephus Schwarz oo Catharina Stöhr	3.8.1773	4	Schönhof 34, Schwarz Josephus Casarius Schönhofensis georgii Schwartz & Catharina nata Borgerin filius. Sponsa: Catharina Wenceslai Stöhr & Maria Elisabetha nata Schindlerin filia
+Josephus Schwarz oo Catharina Stöhr	3.8.1773	4	Schönhof 34, Schwarz Josephus Casarius Schönhofensis Georgii Schwartz & Catharina nata Borgerin filius. Sponsa: Catharina Wenceslai Stöhr & Maria Elisabetha nata Schindlerin filia
 
 
 

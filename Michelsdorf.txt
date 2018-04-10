@@ -6,15 +6,14 @@ Karl Schwarz? 1884  P91
 Emil Schwarz 5.1845 P94
 
 Michelsdorf
-173/1 (1733-1746)
+L173/1 (1733-1746)
 -
 
-173/2 (1747-1784)
-TODO siehe Weitentrebetitsch
+L173/2 (1747-1784, Scan 1-49, Scan 128-142 Unehlich Scan 49-52)
 Schwarz als Levans:	18.09.1752	Scan 50	Baptisatus est Filius illegitime natus Matheus Josephus eg Matre Maria Christina ?Eberhain?. Levans Joseph Schwartz, Testis Elisabetha ?Friederin? 
 
 
-173/3 (1784-1881)
+L173/3 (1784-1881)
 Maria Anna Schwarz		10.11.1793	13	Haus Nr. 2, Eltern: Schwarz Franz | Maria Anna [Wahrscheinlich Gössnitzer]
 Franz Wenzel Schwarz		21.11.1801	31	Haus Nr. 2, Eltern: Franz Schwarz | M.Anna eine Tochter des Christoph Gössnitzer aus Pröhlig Nr 14. die Mutter Katharina geborene Felber(in) aus Pröhlig Nr. 14 zum Guts Neusattel
 Franz Schwarz			26.05.1821	71	Haus Nr. 18, Eltern (getraut 21.11.1815): Franz Schwarz Tagelöhner | M.Anna des +Anton Friedmann Lehrers v. Hier u. der Barbara Albrinch(in) ehel. Tochter 
@@ -26,22 +25,23 @@ Johanna Apollonia Schwarz	9.2.1841	138	Haus Nr. 37, (oo Franz Tippold am 14.11.1
 Joseph Schwarz			12.9.1845	150	Haus Nr. 18, Eltern: Franz Schwarz Maurer im Orte ehl Sohn des Franz Schwarz Taglöhner in Michelsdorf Nr. 27 und der +? ? ? Michelsdorf  Nr_ | Anna Müller ehl. Tochter des Franz Müller Taglöhner in Pröllas Nr ?5? ? Schönhof und der Katherina Sch?i?din eben aus Pröllas Nr. 5
 Theresia Schwarz		21.?.1846	157	Haus Nr. 18, oo am 25.11.1873 in Michelsdorf (I-79) mit Joseph Kreisl, Eltern: Franz Schwarz, Maurer im Orte ehelicher Sohn des Franz Schwarz, Taglöhner in Michelsdorf Nr. 27 und der +M.Anna Friedmann eben aus Michelsdorf Nr. 5, Gut Michelsdorf | Anna Müller eheliche Tochter des Franz Müller Taglöhner in Pröllas Nr 5 Herrschaft Schönhof und der Katherina Schmidin eben aus Pröllas Nr. 5
 Barbara Schwarz			15/7.?.1849	164	Haus Nr. 18, Eltern: Franz Schwarz, Maurer ehelicher Sohn des +Franz Schwarz, Taglöhner in Michelsdorf Nr. 27 und der +Anna Friedmann eben aus Michelsdorf Nr. 5, Gut Michelsdorf | Anna Müller eheliche Tochter des Franz Müller Taglöhner in Pröllas Nr 5 Herrschaft Schönhof und der Katherina Schmidin eben aus Pröllas Nr. 5
-Josef Schwarz 			23.9.1851	176	Haus Nr. 18, [+24.03.1892 Deutsch-Trebetitsch] Eltern: Franz Schwarz (*26.5.1821 Fol. 71), Maurer ehelicher Sohn des +Franz Schwarz, Taglöhner in Michelsdorf Nr. 27 und der +Anna Friedmann eben aus Michelsdorf Nr. 5, zur Bezirks? ? ? in Saaz gehörig | Anna Müller eheliche Tochter des Franz Müller Taglöhner in Pröllas Nr 5 Herrschaft Schönhof und der Katherina Schmidin eben aus Pröllas Nr. 5, zur Bezirks? ? ? in Saaz gehörig
-Franz Schwarz 1854 P188
-Anton Schwarz 1856? P198
-Maria Schwarz 06.1860 P221
-Julia Josefin Schwarz 1869 P271
-Karl Schwarz 1870 P275
-Maria Schwarz? 1871 P277
-Anton Schwarz 1875 P306
-J? Schwarz 1877 P318
-Joseph Schwarz? 9.1878 P322
-Wenzl? Schwarz 1880 P331
-Karl Schwarz 10.1880 P334
-Anna Schwarz		22/25.10.1881	341	Haus 13, Eltern: Schwarz Josef ? aus Nr. 13, Genietagi?tes ? u Tagarbeiter in ?Urla? 14, ehl Sohn des +Franz Schwarz, ? in Michelsdorf 13 u der Anna geb. Müller aus Pröllas Nr. 5, Bz? Podersam | Anna ehl. Tochter des Bohn Franz ?Häuslers? u Tagarbeiters in ? Nr. 12 u der Johanna geb. Pesetha aus ?Permitsch? Nr ?1? Gzb ?Luditz?
-Johan? Schwarz? 2.1883 P6 
-Maria? Schwarz 2.1884 P8
-? Schwarz 2.1885 P10 von ?T
+Josef Schwarz			23.9.1851	176	Haus Nr. 18, [+24.03.1892 Deutsch-Trebetitsch] Eltern: Franz Schwarz (*26.5.1821 Fol. 71), Maurer ehelicher Sohn des +Franz Schwarz, Taglöhner in Michelsdorf Nr. 27 und der +Anna Friedmann eben aus Michelsdorf Nr. 5, zur Bezirks? ? ? in Saaz gehörig | Anna Müller eheliche Tochter des Franz Müller Taglöhner in Pröllas Nr 5 Herrschaft Schönhof und der Katherina Schmidin eben aus Pröllas Nr. 5, zur Bezirks? ? ? in Saaz gehörig
+Franz Schwarz			31.01.1854 	188	Haus Nr. 18, Eltern: Franz Schwarz, Maurer und Häusler in Michelsdorf, ehelicher Sohn des +Franz Schwarz, Taglöhner in Michelsdorf Nr. 27 und der +Anna Friedmann eben aus Michelsdorf Nr. 5, zur Bezirksgericht in Podesam | Anna Müller (*1827 in Pröllas) eheliche Tochter des Franz Müller Taglöhner in Pröllas Nr 5 und der Katherina Schmidin eben aus Pröllas Nr. 5, zur Bezirksgericht in Podersam
+Scan 112->TODO
+Anton Schwarz			1856? P198
+Maria Schwarz			06.1860 P221
+Julia Josefin Schwarz		1869 P271
+Karl Schwarz			1870 P275
+Maria Schwarz?			1871 P277
+Anton Schwarz			1875 P306
+J? Schwarz			1877 P318
+Joseph Schwarz?			9.1878 P322
+Wenzl? Schwarz			1880 P331
+Karl Schwarz			10.1880 P334
+Anna Schwarz			22/25.10.1881	341	Haus 13, Eltern: Schwarz Josef ? aus Nr. 13, Genietagi?tes ? u Tagarbeiter in ?Urla? 14, ehl Sohn des +Franz Schwarz, ? in Michelsdorf 13 u der Anna geb. Müller aus Pröllas Nr. 5, Bz? Podersam | Anna ehl. Tochter des Bohn Franz ?Häuslers? u Tagarbeiters in ? Nr. 12 u der Johanna geb. Pesetha aus ?Permitsch? Nr ?1? Gzb ?Luditz?
+Johan? Schwarz?			2.1883 P6 
+Maria? Schwarz			2.1884 P8
+? Schwarz			2.1885 P10 von ?T
 
 Lou? Schwarz 05.1902 S57
 M? Schwarz 04.1905 P65
@@ -58,14 +58,15 @@ Margaretha Schwarz 5.1918 P92
 __________________________________________________
 Tode
 
-173/1 (1733-1746, Scan 46-63)
-Scan 52->TODO  (auch Weitentrebetitsch)
-
-L173/2 (1747-1784, versorbene ab Scan 83)
-Scan 87->TODO (auch Weitentrebetitsch)
+L173/1 (1733-1746, Scan 46-63)
+Scan 54->TODO  (auch Weitentrebetitsch)
 
 
-L173/A (1784-1927, Indexbuch), tatsächliches Totenbuch scheint zu fehlen
+L173/2 (1747-1784, Scan 83-127)
+Scan 89->TODO (auch Weitentrebetitsch)
+
+
+L173/A (1784-1927, Indexbuch, Scan 66-97), tatsächliches Totenbuch scheint zu fehlen
 M.Anna Schwarz(in)	9.1794	10
 Anton Schwarz		4.1807	26
 ? Schwarzin?		6.1825	50
@@ -90,14 +91,14 @@ Anna Schwarz		12.1899	141
 
 __________________________________________________
 Trauungen
-173/1 (1733-1746, Scan 36-45)
-Scan 42->TODO
+L173/1 (1733-1746, Scan 36-45)
+-
 
-L173/2 (1747-1784)
+L173/2 (1747-1784, Scan 52-81)
 Joannes Josef Schwartz oo Maria Susanna Stund	5.5.1753	Scan 62	5 Maty Copulatus est proua derna denuntiatone idest 18, 25 Feb, et 4 Marty ... Joannes Joseph, Georgis Schwartz eg Cagotrads Filius , cum Maria Susanna defuncti Joannis Stund ex Schönhoff Filia...
 
-L173/A (1784-1927, Indexbuch), tatsächliches Buch scheint zu fehlen
-Franz Schwarz oo M.Anna Friedmann	11.1815		20
+L173/A (1784-1927, Indexbuch, Scan 2-26), tatsächliches Buch scheint zu fehlen
+Franz Schwarz oo M.Anna Friedmann	21.11.1815	20
 Jakob Schwarz				1824		26
 Wenzl Schwarz				9.1825		27
 Franz Schwarz				1841		40

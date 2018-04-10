@@ -4,13 +4,19 @@ Index für Tscheraditz (Čeradice), Miltschowes (Milčeves), Milloschitz (Miloš
 Geburten
 
 138/1 (1677-1761, Scan 1-166, Scan 167-171 (illeg.), Scan 172-196, Scan 236-237)
-TODO<-Scan 162
-Scan 166->TODO
+TODO<-Scan 53 (1701)
+-
+Scan 61 (1703)->TODO
+TODO<-Scan 149 (1753)
+-
+Scan 172 (1685)->TODO
+TODO<-Scan 196 (1721)
 
-138/4 (Tscheraditz 1784-1862) Scan 27-78
+
+138/4 (Tscheraditz 1784-1862, Scan 27-78)
 Susanna Schwarz(in)		7.1.1789	28	Haus Nr. 5, Eltern: Franz Schwarz Taglöhner | Maria Anna Gößnitzer(in)
-Johann Paul Karl Schwarz	26.6.1791	30	Haus Nr. 5, Eltern: Franz Schwarz T? ?Weinernitsch? | Maria Anna Gößnitzer(in)
-Franz Karl Schnaryz		16.05.1796	34	Haus Nr 17: Andres Schnaryz Taglöhner | Joseepha Hopfin
+Johann Paul Karl Schwarz	26.6.1791	30	Haus Nr. 5, Eltern: Franz Schwarz Trescher Wimmerisch [Wohl der Hausname von Tscheraditz 5] | Maria Anna Gößnitzer(in)
+Franz Karl Schnaryz		16.05.1796	34	Haus Nr 17: Andres Schnaryz Taglöhner | Josepha Hopfin
 Scan 47 (1812)->TODO
 
 
@@ -38,7 +44,7 @@ Magdalena Schwarz	19.08.1822	26	Milloschitz Nr. 3, +24.10.1823, Eltern: Anton Sc
 Magdalena Schwarz	26/27.06.1824	27	Milloschitz Nr. 3, Eltern: Anton Schwarz Schneidermeister alda, ehelicher Sohn des Joseph Schwarz Taglöhner in Kaaden Nr. 406 | Josepha, Tochter des Joseph ?Rosen? Bürgers in Rudig Nr.38 und der Maria Anna Neukirchnernin dessen Eheweib aus ?Petersberg? Nr. 10 Herrschaft Petersberg
 
 138/3 (Reitschowes) (Scan 26-
-Scan 33->TODO
+Scan 34 (1796)->TODO
 
 ________________________________
 Tode
@@ -68,19 +74,22 @@ Scan 84->TODO
 ________________________________
 Trauungen
 
-138/1 (1677-1761, ab Scan 196)
-TODO
+138/1 (1677-1761, ab Scan 196, Index auf Scan 325-336)
+Wilhelm Helm oo Susanna Schwarz			20.?.1682	240	Miloschitz	Wilhelm Helm mit Jungfrau Susanna Georg Schwartzer Tochter
+Barth. Sperl oo Kath. Schwarz 			09.11.1689	243			Barth. Sperl von Neumarkh gebürtig mit Katarina Schwartzin von Miloschitz
+Franz Schwartz oo Mar. Kath. Wondratschka	29.06.1739	261	Reitschowes	Franciscus, defuncti Joamis Schwartz ex Zürnau [=Zürau/Siřem]
+
 
 138/4 (Tscheraditz) Scan 1-27
-Joseph Schwarz oo Elisabetha Schmalfuß	22.5.1785	Haus Nr. 12?, Bräutigam: Joseph Schwarz ?i?s-Sohn in Saatz, 20 Jahre | Braut: Elisabetha Schmalfuß Schusters-Tochter in Tscheraditz, 24 Jahre
-Scan 7->TODO
+Joseph Schwarz oo Elisabetha Schmalfuß	22.5.1785	1	Haus Nr. 12?, Bräutigam: Joseph Schwarz ?Steinmets?-Sohn in Saatz, 20 Jahre | Braut: Elisabetha Schmalfuß Schusters-Tochter in Tscheraditz, 24 Jahre
+Scan 8->TODO
 
 138/6 (Miltschowes) (Scan 1-22)
 Scan 4->TODO
 
-138/10 (Miloschitz) (Scan 1-
+138/10 (1784-1857, Miloschitz) (Scan 1-
 Scan 4->TODO
 
 138/3 (Reitschowes) (Scan 1-26)
-Scan 3->TODO
+Scan 6->TODO
 

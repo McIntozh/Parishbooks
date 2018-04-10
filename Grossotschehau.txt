@@ -2,18 +2,43 @@ Grossotschehau (Očihov)
 
 
 Geburten
-L118/5 (1744-1784, nach Index)
-Joannes Wenceslay Schwartz		20.8.1745	11	... Joannis Schwartz ... Katharina nata ?Zweteg(in)?
-Anna Rosalia Schwarz			17.8.1746	17	... Christophori Schwartz ... Elisabetha nata ?Schmiet(in)? ... Elisabetha ?Flugg(in)?
-Maria Catharina Schwarz			25.3.1748	26	... Joannis Schwartz ... Catharina nata ?Zwetig(in)?
-Maria Magdalena Schwarz			7.7.1749	36	... Christophori Schwartz ... Elisabetha nata ?Schmiedt(in)?
-Anna Catharina Schwarz			22.10.1751	52	... Christophori Schwartz ... Elisabetha nata ?Schmiedl(in)?
 
-Scan 72->TODO
+L118/1 (1580-1657)
+TODO
+
+L118/2 (1658-1680)
+TODO
+
+L118/3 (1681-1716)
+TODO
+
+L118/4 (1716-1743, Scan 16-227, nach Index)
+Barbara Schwarz 				105	Seite Fehlt/Nicht gescannt
+Johann Martin Schwarz		08.08.1727	109	Eltern: Johannes Schwarz | Anna Catharina
+Anna Katharina Schwarz		09?.09.1728	122	Eltern: Adami Schwarz | Anna Barbara [Schaller]
+Anna Maria Schwarz 		22.11.1729	135	Eltern: Adami Schwarz | Barbara [Schaller]
+Maria Elisabeth Schwarz		28.09.1732	169	Eltern: Adami Schwarz | Anna Barbara [Schaller]
+Anna Elisabeth			03.10.1732	170	Eltern: Joanis Schwarz | Catharina
+Johann Martin Schwarz		25.05.1733	176	Eltern: Christophori Schwarz | Elisabetha [Schmid]
+Laurent? Schwarz		03.06.1735	207	Eltern: Christophori Schwarz | Elisabetha Schmid(in)
+Anna Catharina			08.08.1736	220	Eltern: Adami Schwarz | Anna Barbara Schaller(in)
+Anna Catharina Schwarz		10.03.1737	228	Eltern: Christophori Schwarz | Maria Elisabetha Schmid(in)
+?Mattes? Georg ?Schwarz?	31.03.1737	229	Eltern: Joanis ?Schwarz? | Catharina ?betich(in)
+Anna Maria Schwarz		23.06.1738	246	Eltern: Christophori Schwarz | Elisabetha Schmid(in)
+Johann Josef Schwarz		08.10.1739	260	Eltern: Adami Schwarz | Barbara Schaller(in)
+Maria Elisabeth Schwarz		20.01.1741	274	Eltern: Christophori Schwarz | Elisabetha Schmid(in)
+Maria Elisabeth Schwarz		25.05.1741	278	Eltern: Joamis Schwarz | Catharina ?Zerleschia/Zwetzlechia?
+Maria Anna Schwarz		03.07.1743	299	Eltern: Christophori Schwarz | Elisabetha Schmidl(in)
+
+L118/5 (1744-1784, nach Index)
+Joannes Wenceslay Schwartz		20.8.1745	11	Eltern: Joannis Schwartz | Katharina nata ?Zweteg(in)?
+Anna Rosalia Schwarz			17.8.1746	17	Eltern: Christophori Schwartz | Elisabetha Schmid(in) ... Elisabetha ?Flugg(in)?
+Maria Catharina Schwarz			25.3.1748	26	Eltern: Joannis Schwartz | Catharina nata ?Zwetig(in)?
+Maria Magdalena Schwarz			7.7.1749	36	Eltern: Christophori Schwartz | Elisabetha Schmid(in)
+Anna Catharina Schwarz			22.10.1751	52	Eltern: Christophori Schwartz | Elisabetha Schmid(in)
 
 L118/6 (1753-1784 nach Index, Scan 34-88, Index Scan 89-96)
-Scan 51->TODO
-Joannes Antonius Schwarz		18.5.1767	63	... Martini Schwarz ... Elisabetha ...
+Joannes Antonius Schwarz		18.5.1767	63	Eltern: Martini Schwarz | Elisabetha
 Catherina Veronica Schwarz		71
 Jos.? Stephany Schwarz			74
 Anna Magdalena Schwarz			81
@@ -49,11 +74,22 @@ ________________________________
 Tode
 
 
+L118/4 (1716-1743, Scan 281-345)
+TODO
 
-
+L118/5 (1744-1784)
+Maria Anna Schwarz		11.08.1744	4	Eltern: Christophori Schwartz	1 Jahr
+Johannes Wenzel Schwarz		25/28.08.1746	13	Eltern: Joannis Schwarz	1 Jahr, 8 Tage
+?Anna? Magdalena Schwarz	21.07.1750	47	Eltern: Christophori Schwartz | Elisabetha Schmid(in)	17 Tage
 
 ________________________________
 Hochzeiten
+
+L118/4 (1716-1743, Scan 230-273, nach Index)
+Johann Schwarz oo Katharina ?			13.03.1727	339	Johann Swarz, Catharina ?
+Adam Schwarz oo Maria Barbara Haller		18.02.1727	339	Adam Swarz, Maria Barbara Haller(in)
+Christoph Schwarz oo Maria Elisabetha Schmidl	23.08.1731	354	Christophori Schwarz cum Maria Elisabetha Schmidl(in)
+
 
 L118/5 (1744-1753, nach Index, Trauungen ab Scan 212)
 -

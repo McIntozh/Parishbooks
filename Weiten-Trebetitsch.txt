@@ -4,9 +4,10 @@ http://vademecum.soalitomerice.cz/vademecum/ViewControlImpl.action?alter=&_sourc
 
 Geburten
 
+L173/1 (1733-1746)
+-
+
 L173/2 (1747-1784, Unehl. Kinder ab Scan 49)
-Scan 10->TODO
-TODO<-Scan 25
 Joannes Wenzlaus Schwartz?	27.05.1755	Scan 50	Die 27 Majs nahus, et baptisatry est Filius Joannes Wenzlaus ex illegitimo Toro. Mater ejes fuit Silvia Zeitlerin, Carens autem dictus feisse Mathaus Schwartz ex Hotshehau Libotitz Gödesamensis. Levans fuit Joannes Wenzlaus Monerth. Testes Franciscus Josephus Meltzer, Rosina Hanauerin. Rosina Zeitlerin, Dorothea Fancin, Anna Elisabetha Gopoetin, Catharina Domashkin, Catherin Baijerlin, ?ne? ?-Trebetirenses. Babptisarti Tachens Schreither Capelli Willomirenzs. Legetimata fuit Brolis permarimonium 25. January 1757 celebrati Barenzidem ?isi? ?frener?
 
 Weitentrebetitsch I L160/1
@@ -25,11 +26,16 @@ Weitentrebetitsch III  L160/3
 Maria Schwarz			13/14.05.1857	16	Haus Nr. 39, (corp. in Weit. (II-42) am 9.9.1884 mit Wilhelm Karl Wenisch), Eltern: Schwarz Jakob Zimmermmann Weitentrebetitsch Nr. 39 Bezirk Podersam ? ? ? Sohn des Schwarz Jakob Zimmermmanns in Weitentrebetitsch Nr. 39 ? Barbara Amalia geb. Detsch aus Michelsdorf Gebiet Podersam (Geb 22.11.1823 in Michelsdorf I-76) (am 27.1.1824 mit in Michelsdorf Babara Detsch mit Jakob Schwarz getraut  (I-26)) | Thereisa (geb. 1826/27) ? unehl. Tochter der Anna Kraus ?Jenwohnerin? in Teutschenrust Nr. 20 ? ? Tochter des Anton Kraus Bauer in Teutschenrust Nr. 20 Bezirk Podersam corp. 3..11.1850  in Pomeisl (Teutschenrust ab 1784-39)
 Weiter auf Scan 11
 Johanna Schwarz			14.03.1860	38	Haus Nr. 39, (+22.1.1933 in Weitentrebetitsch IV-35/2), Unehl. Sohn Karl Weit.V/73, Sohn ? Johan: tom V, pag 50, Eltern (Cop. 3.11.1853 in Pomeisl (ab. 1784-39)): Schwarz Jacob Zimmermann (Geb. 22.11.1823 in Michelsdorf 37 (I-76), +18.8.1904, Weitent. 39 III-102/11) in Weitentrebetitsch Nr. 39, ehelicher Sohn des Jacob Schwarz Zimmermann in Weitentrebetitsch Nr. 39 und der Barbara Amalia geborene Detsch aus Michelsdorf ? ? Saaz, Bezirk Podersam | Theresia Kraus (Geb. 11.3.1827 Teutschenrust Nr. 20 (ab 1784-58), +10.12.1904 Weit. 39 (III-102/13)) nicht eheliche Tocher der Anna Kraus ?Zinn?erin? in Teutschenrust Nr 20 ? ? ? ? Tochter des Anton Kraus Bauer in Teutschenrust Nr. 20 und der Katharina geb. ?Spranger? ? Saaz Bezirk Podersam
-Franz Schwarz			09.02.1864	86
-Maria Schwarz			27.05.1868	152
-Josef Schwarz			16.06.1870	180
-				1872 28 Juni? 	13/14
-Franz Schwarz			23.06.1883	16
+Franz Schwarz			09/10.02.1864	86	Haus Nr. 39, unlegit., Eltern: Franz Tippold | Johanna Schwarz, eheliche Tochter des Jakob Schwarz, Zimmermmanns in Weitentrebetitsch Nr. 39 und der Barbara gebohrene Detsch aus Michelsdorf Nr. 21 Bezirk Podersam
+Maria Schwarz			27.05.1868	152	Haus Nr. 28, Eltern: Schwarz Franz, Schneider in  Weitentrebetitsch Nr. 28, ehl. Sohn des +Josef Schwarz, Scheunenmisters in Weitentrebetitsch Nr. 4 Bzg. Podersam und der Theresia geb. Richter aus Kunitz Nr. 13 Bzg. Kaaden | Maria Anna, ehl. Tochter des Franz Anton Ulm, Schneidermeisters in Scheles Nr. 66 und der M.Anna Josepha Wondrak aus Scheles Nr. 66 Bezirk ?Infmitz? | Pathen: ... Josef Schwarz, Taglöhner in Weitentrebetitsch
+Josef Schwarz			16/17.06.1870	180	Haus Nr. 27, (getraut  25.05.1896 mit Franziska Kara geb. 13.08.1870 in Privetice 44 Bzk. Rokycany (WTB II-64)), Eltern: Schwarz Franz (*21.04.1842 in Gödesin 1 (Bd. II-41), 2. Ehe: W II-90/1 24.05.1906), Schneider in Weitentrebetitsch, ehl Sohn des +Josef Schwarz Scheunenmisters in Weitentrebetitsch Nr. 2 und der Theresia geb. Richter aus Kunitz Nr. 13 | M. Anna, Tochter des Franz Anton Ulm... *23.12.1840 Scheles (VI-104), +1.11.1905 in WTB (III-107)
+
+L160/4 (1870-1881, nach Index)
+Francisca Schwarz		18/20.08.1872	13	Haus Nr. 3, (getraut in Tschausch ?grf? Tsch. mit Josef Rohm aus Michelob *30.09.1870) (Bd X-99 ?Trm?)), Eltern: Josef Schwarz ... | Maria Stütz ... | ... Testis: Eduard Schwarz, Knecht in Lobeditz
+Theresia Schwarz		28/29.09.1872	15	Haus Nr. 27, Eltern: Schwarz Franz ... | Anna Ulm ...
+
+L160/5 (1881 - 1894, nach Index)
+Franz Schwarz			23.06.1883	16	Haus Nr. 39, (+22.07.1884), unlegit, Mutter: Johanna Schwarz ... ehl. Tochter des Jakob Schwarz, Zimmermanns in Weitentrebetitsch Nr. 39 und der Theresia geb. Kraus aus Deutschrust [Teutschenrust] Nr. 20
 
 ________________________________
 Tode
@@ -94,7 +100,7 @@ Trauungen
 
 
 L173/2 (1747-1784, Trauungen ab Scan 60)
-Martiny Schwarz oo Sylvia Zeidler		25.01.1757	Scan 64	Die 25 Januari 1757 a meinfra frigto copulati ell Sponsut Martiny Schwarz ex Pago Hotshehau [Wohl Groß/Klein-Otschehau] no nune jubilaty Schön Krchianey cum Sponsa sua Sylvia Joannis Adami Zeidler defutcti legitima filia pariter Lubita Schöen Kirchiana (Schönkirchen?). proviy termis janoicoy denunciationiky nie 9, 16, & 23 Januarii, nullo detecto impedimento Canonico & Festiby Joameftdamu Sacher future, et Joanne Wencelau lieber murario Subity 
+Martiny Schwarz oo Sylvia Zeidler		25.01.1757	Scan 64	Die 25 Januari 1757 a meinfra frigto copulati ell Sponsut Martiny Schwarz ex Pago Hotshehau [Wohl Groß/Klein-Otschehau] no nune jubilaty Schön Krchianey cum Sponsa sua Sylvia, Joannis Adami Zeidler defutcti legitima filia pariter Lubita Schöen Kirchiana (Schönkirchen?). proviy termis janoicoy denunciationiky nie 9, 16, & 23 Januarii, nullo detecto impedimento Canonico & Festiby Joameftdamu Sacher future, et Joanne Wencelau lieber murario Subity 
 
 L160/6 (Anhand Index)
 Susanna Schwarz oo Anton Aunert			11.11.1823	26	Haus Nr. 13, Bräutigam (2. Ehe): Anton Aunert ausgedienter Veteran bei Herzog Wellington ... | Braut: Susanna eheliche Tochter des Franz Schwarz des obrigkeitlichen Hegers in Weitentrebetitsch und der M.Anna gebohrene Gößnitzer. Geboren in Tscheraditz Nr. 5 am 7.1.1789, bapt. in Reitschowes (Bd.-Fol 28) Reitschowes 14.10.1823
@@ -107,8 +113,8 @@ Johanna Apollonia Schwarz oo Franz Tippold	14.11.1865	2	Haus Nr. 39, Bräutigam 
 
 L160/9
 Franz Schwarz oo Maria Ulm			16.9.1867	7	Haus Nr. 76, Bräutigam (+18.10.1924 Weit. IV-15): Schwarz Franz ? und Schneider in Weitentrebetitsch Nr. 76 gebürtig aus Gödesin,ehl Sohn des Josef Schwarz Scheunenmisters in (Weitentrebetitsch Nr. 4) Gödesin Nr. 4 Bzg. Podersam Sohn des Franz Schwarz Feldhegers in Weitentrebetitsch Nr 10 und der Maria Anna Gesenitzer aus Strösau Nr. 1 und der Thereisa geb. Richter Bauerstochter aus Kumitz Nr 13 ... , 25 Jahre 5 Monate, geboren in Gödesin 1 am 21.4.1842 (II-41), ? Pf. A. Pomeisl Nr.50 - 23.5.1867
-Josef Franz Schwarz oo Maria Stütz		12.02.1872	16	Haus Nr. 3, Bräutigam: Schwarz Josef Franz, Tagarbeiter (Gehäft?er?ter) am Meienhofe in Weitentrebetitsch 3, gebürtig aus Gödesin ein ehl. Sohn des +Josef Schwarz, Scheunenmister in Weitentrebetitsch Nr. 4 und der Theresia geb. Richter Bauerstochter aus Kumitz Nr. 13, Brz: ? gegenwärtig Pf? in Weitrb. Nr. 2, geboren in Gödesin Nr. 14 29.8.1849 (II-55), gestorben 31.1.1908 in Micehlob 17 (G-61/1) | Braut: Stütz Maria , ehl Tochter des + Josef Stütz, ?Sutmeimers? in Kudenitz Nr 13 ?zeste? eben als Tagelöhner in Knötschizu Nr_ Bzk. Podersam und der +M.Anna ehl. Tocjter des Martin Welz Ziegler in Willomitz un der ?Rlara? geb. Sägensschärfer aus _, geb. in Kudenitz Nr. (tonns VII-28) 7.9.1845, gestorben 24.8.1918 in Michelob (G-160/16) | Zeugen: Josef ?Ertsh? Schaffer in Podletitz, Franz Schwarz Schneider in Weitentrebetitsch
-Josef Schwarz oo Maria ?Kara?			25.5.1896	64	Haus Nr. 67, Bräutigam: Schwarz Josef Maurer und ?Inwohner? in Weitentrebetitsch Nr. 67 ehelicher Sohn des Franz Schwarz Schneiders (jetzt ?Gemeindegolizimmermanns?) in Weitentrebetitsch Nr. 86 Bztg Podersam und der Maria Anna ?ninneli? Tochter des Franz Anton Ulm Schneidermeisters in Scheles (=Zihle) Nr. 66 Bezirk Jechnitz, 25 Jahre 10 Monate, geboren16.6.1870 in Weitentrebetitsch (III-180) | Braut: Marie Kára Tagelöhnerin in Weitentrebetitsch ... | Zeugen: Franz Schwarz Schneider in Schönhof Nr. 84, Josef Daněk Knecht in Weitentrebetitsch
+Josef Franz Schwarz oo Maria Stütz		12.02.1872	16	Haus Nr. 3, Bräutigam: Schwarz Josef Franz, Tagarbeiter (Gehäft?er?ter) am Meienhofe in Weitentrebetitsch 3, gebürtig aus Gödesin ein ehl. Sohn des +Josef Schwarz, Scheunenmister in Weitentrebetitsch Nr. 4 und der Theresia geb. Richter Bauerstochter aus Kumitz Nr. 13, Brz: ? gegenwärtig Pf? in Weitrb. Nr. 2, geboren in Gödesin Nr. 14 29.8.1849 (II-55), gestorben 31.1.1908 in Micehlob 17 (G-61/1) | Braut: Stütz Maria , ehl Tochter des + Josef Stütz, ?Sutmeimers? in Kudenitz Nr 13 ?zeste? eben als Tagelöhner in Knötschizu Nr_ Bzk. Podersam und der +M.Anna ehl. Tochter des Martin Welz Ziegler in Willomitz un der ?Rlara? geb. Sägensschärfer aus _, geb. in Kudenitz Nr. (tonns VII-28) 7.9.1845, gestorben 24.8.1918 in Michelob (G-160/16) | Zeugen: Josef ?Ertsh? Schaffer in Podletitz, Franz Schwarz Schneider in Weitentrebetitsch
+Josef Schwarz oo Maria Kara			25.5.1896	64	Haus Nr. 67, Bräutigam: Schwarz Josef Maurer und ?Inwohner? in Weitentrebetitsch Nr. 67 ehelicher Sohn des Franz Schwarz Schneiders (jetzt ?Gemeindegolizimmermanns?) in Weitentrebetitsch Nr. 86 Bztg Podersam und der Maria Anna ?ninneli? Tochter des Franz Anton Ulm Schneidermeisters in Scheles (=Zihle) Nr. 66 Bezirk Jechnitz, 25 Jahre 10 Monate, geboren16.6.1870 in Weitentrebetitsch (III-180) | Braut: Marie Kára Tagelöhnerin in Weitentrebetitsch [geb. 13.08.1870 Privetice] ... | Zeugen: Franz Schwarz Schneider in Schönhof Nr. 84, Josef Daněk Knecht in Weitentrebetitsch
 
 Franz Schwarz oo Čech Katharina			24.5.1906	90	2. Ehe des Franz Schwarz (voher Ulm), Haus Nr. 66, Bräutigam (*21.4.1842 Gödesin, +18.10.1924 Weit. IV-15): Schwarz Franz ? in Weitentrebetitsch Nr 66 und zuständig ?, Witwer aus der am 1.11.1905+ Maria Anna geb. Ulm, ehel. Sohn des +Josef Schwarz Scheunenmeister in Gödesin Nr.1 Bzg. Podersam und der Thereisa geb. Richter Bauerstochter aus Kunitz Nr. 13 Bzg. Kaaden, des Johan Richter und der M.Anna Pohl aus Kunitz Nr. 18 (Pfr. Tutrsch) | Braut (*29.7.1858 Holovousy Nr. 3 (Lb-fol 15)): Čech Katharina Tagarbeiterin in Weitentrebetitsch Nr. 66 Witwe ... Tochter des +Walbert Čech Schmiedemeister in Holovous Nr 3 Bezirk Králowitz ...
 Wenzl Schwarz oo ? Hahnl			14.09.1912	7

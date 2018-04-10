@@ -2,7 +2,17 @@ Kaaden (Kadaň)
 
 Geburten
 
-L66/1 (1758-1803, Index nur 1758-1770 danach fehlt)
+L66/10 (1736-1757, nach Index)
+Maria Joanna Elisabetha Schwarz		22.04.1745	112	Eltern: Adalbertus Schwarz | Anna Margaretha Laun
+Maria Rosalia Schwarz			27.06.1747	137	Vorstadt	Eltern: Adalbertus Schwarz (Müllermeister) | Anna Margaretha Laun
+Franciscus Adalbertus Schwarz		03/04.03.1750	169	Vorstadt	Eltern: Adalbertus Schwarz (Müllermeister) | Anna Margaretha Laun
+Franz Leopold Schwarz			21.03.1751	179	Eltern: Adalbertus Schwarz | Anna Margaretha Laun
+Franz Josef Schwarz			21.03.1751	179	Eltern: Adalbertus Schwarz | Anna Margaretha Laun
+Franz Leopold Schwarz			09/10.05.1752	192/193	Vorstadt	Eltern: Adalbertus Schwarz (Müllermeister) | Anna Margaretha Laun
+Maria Anna Schwarz			03.06.1756	226	Eltern: Adalbertus Schwarz | Anna Margaretha Laun
+
+
+L66/11 (1758-1803, Index nur 1758-1770 danach fehlt)
 
 Joannes Antonius Schwartz	1/2.05.1766	67	Den 2ten Marty ist in der Decanal-Kirche ... getauft worden Joannes Antonius ehlich erzeugter Sohn des Matthes Schwartz, Taglöhner und dessen Eheweib Anna Elisabetha geborene Langerin bede zur hiesiger König? Stadt Caaden angehörife Unterthane ...
 Joann Georg Thomas Schwartz	20/21.12.1767	78	Den 21 December ist in der Decanal-Kirche ... getauft worden Johann Georg Thomas ehlich erzeugter Sohn des Matthes Schwartz, Taglöhner und dessen Eheweib Anna Elisabetha geborene Langerin beyde hiesiger Stadt Unterthane ...
@@ -26,6 +36,19 @@ Ferdinand Schwartz			13
 Anna Margaretha Schwartz		103
 Johann Franz Schwartz (Söhnlein)	33
 Johann Michael Schwartz (Müllermei.)	75
+
+L66/10 (1736-1757, nach Index)
+Eva Schwarz			04.04.1736	2
+Maria Catharina Schwarz?	18.10.1747	102
+Sabrina Schwarz			07.05.1749	116
+Franz Adalbert Schwarz		08.03.1750	123
+Franz Leopold Schwarz		23.03.1751	138
+Franz Josef Schwarz		23.03.1751	138
+Franz Leopold Schwarz		13.05.1752	146
+Catharina Schwarz		21.09.1754	159
+Maria Anna Schwarz		06.06.1756	108
+
+
 
 L66/G (1771-1832, Index-Buch)
 L66/26 (1758-1832, nach Index)
@@ -59,6 +82,9 @@ TODO
 
 _____________________________________
 Trauungen
+
+L66/10 (1736-1757, nach Index)
+Adalbert Schwarz oo Anna Margaretha Meyerin (Wiitb)	07.07.1744	43
 
 L66/C (1771-1840, Index-Buch)
 

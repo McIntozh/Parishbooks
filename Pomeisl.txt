@@ -4,6 +4,9 @@ Index Pomeisl(Nepomyšl)
 
 Geburten
 
+L104/1 (1742-1784, nach Index, Scan 1-137, 156-160, 162-164, 166-167, unlegit Scan 169-175, 183-189, Index Scan 137-155, 160-161, 165, 168, 176-183)
+-
+
 L104/2 (1784-1849, nach Index)
 Anton Schwarz			06.03.1794	30	Haus Nr. 43, Eltern: Mathäus Schwarz ein Bürger und ?Schechnaiher? | Franziska geborene ?Domeheibeniner?, (beide) Pomeisler Unterthan
 Karl Schwarz			09.12.1835	222	Haus Nr. 130, Eltern: Franz Hubert Schwarz ?Satlermeister? in Pomeisl Nr. 130, Sohn des Joseph Schwarz Zimmermann aus ?ü?mitz Nr. 104 und dessen Gattin Josepha geborene Hofmann aus ?Schrühof? Nr | Theresia Tochter des ? S?mst? Schneidermeisters in Pomeisl Nr. 130 und dessen Gattin ? geborene Brißler? aus ? Nr. 103
@@ -38,5 +41,9 @@ Schwarz Theresia		17/19.08.1884	240	Haus Nr. 133, Schwarz Theresia, Witwe ? +Sat
 
 ___________________________________
 Hochzeiten
+
+L104/1 (1745-1784 nach Index, Scan 189-254, Rust 261-262, Wärzen 263-264, Gödesin 265, Index (Nur nach Nachname der Gattin) 255-261, Rust 262, Wärzen 264)
+Johann Josef Schwarz oo Maria Anna Jann	23.10.1764	480	Joames Josephy SWartz .. in pago Schönhoff cum sponsa sua Maria Anna filia Joamy Jann .. Pomeisl... Testes: ... Martino Swartz inquilino eden pago Schönhoff
+
 L104/5 (nach Index)
 Franz Hubert Schwarz oo Thereisa ?S?stnir?	3.2.1835	68	Haus Nr. 130

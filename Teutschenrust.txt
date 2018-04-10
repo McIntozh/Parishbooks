@@ -4,10 +4,10 @@ Index für Teutschenrust (Podbořanský Rohozec)
 
 Geburten
 
-L104/1 (1742-1784, nach Index, Scan 1-137, 156-160, 162-164, 166-167, unlegit Scan 169-175, 183-189, Index Scan 137-155, 160-161, 165, 168, 175-183 )
-Anna Elisabetha		3.3.1762	136	Martin Svartz | Sylvia [oo 25.01.1757 Weitentrebetisch]
-Franz Josef Schwarz	23.02.1766	166	Martinus Schwartz | Sylvia
-Joannes Schwarz		27.08.1769	195	Martini Swartz | Sylvia nata filia Joanny Andoni Zeidler (Zeitler)
+L104/1 (1742-1784, nach Index, Scan 1-137, 156-160, 162-164, 166-167, unlegit Scan 169-175, 183-189, Index Scan 137-155, 160-161, 165, 168, 176-183)
+Anna Elisabetha Schwarz	3.3.1762	136	Martin Svartz inquillin in pago Rust | Sylvia [oo 25.01.1757 Weitentrebetisch] subsitore Schönkichianoru
+Franz Josef Schwarz	23.02.1766	166	Martinus Schwartz in pago Rust | Sylvia subsitore Lato trepetitschension [Hohentrebetitsch]
+Joannes Schwarz		27.08.1769	195	Martini Swartz in pago Rust | Sylvia nata filia Joanny Andoni Zeidler (Zeitler) in pago Ledau subsitoren Lato trepetitschension [Hohentrebetitsch]
 Franz Wenzl Schwarz	28.10.1772	220	Haus Nr. 23, Martinus Swartz | Sylvia
 
 
