@@ -1,11 +1,22 @@
 Sobiesak (Soběsuky)
 
 
+
 149/3 (1711-1771)
-Hausvrzeichnis der Gläubigen von 1825-1827, Scan 171-185
+
+Hausverzeichnis der Gläubigen von 1825-1827, Scan 171-185, 233-237
+-
+Hausverzeichnis der Gläubigen von 1828, Scan 237-243
+Hausverzeichnis der Gläubigen von 1829, Scan 243-251
+Hausverzeichnis der Gläubigen von 1830, Scan 251-259
+Hausverzeichnis der Gläubigen von 1831, Scan 344-353
+
 
 ________________________________
 Geburten
+
+149/A (1855-1945, Index-Buch)
+TODO
 
 149/1 (1591-1645)
 TODO
@@ -13,10 +24,18 @@ TODO
 149/2 (1645-1711)
 TODO
 
-149/3 (1711-1771)
-TODO
+149/3 (1711-1771, Scan 1-?, Illeg. Scan 339-343)
+TODO<-Scan 58 (1727)
+		      65	Succesit admodum Reverendas Dominus Joannes Georgius Cajetanus Schwartz qui 7me die february ub curatus Sobisacensis a rodisimo confistorio Elerlitz est confirmatus nicepit regnare atatis sua trigesimo Anno
+Scan 68 (1729)->TODO
+TODO<-Scan 135 (1754)
+-
+Scan 160 (1767)->TODO
+TODO<-Scan 339 (1755)
+-
 
-149/4 (1722-1786, nach Index, Scan 2-26, Index Scan 27-89)
+
+149/4 (1772-1786, nach Index, Scan 2-26, Index Scan 27-89)
 -
 
 149/5 (1784-1854, nach Index, Scan 1-187 und 265-292, Index Scan 188-200)
@@ -33,10 +52,10 @@ TODO
 149/2 (1645-1711)
 TODO
 
-149/3 (1711-1771)
-TODO
+149/3 (1711-1758, Scan 259-338)
+TODO<-Scan 334
 
-149/4 (1722-1786)
+149/4 (1772-1786, Scan 109-145)
 TODO
 
 149/5 (1784-1854, nach Index, Scan 257-263, Index Scan 293-305)
@@ -46,17 +65,22 @@ TODO
 ________________________________
 Trauungen
 
+Index für 1823-1851 in 149/4 Scan 99-108)
+149/A (1855-1945, Index-Buch)
+-
+
 149/1 (1591-1644)
 TODO
 
 149/2 (1645-1711)
 TODO
 
-149/3 (1711-1758, Scan 186-)
-TODO
+149/3 (1711-1771, Scan 186-232)
+TODO<-Scan 201 (1736)
+-
 
-149/4 (1722-1786, Scan 90-)
-TODO
+149/4 (1772-1786, Scan 90-98)
+-
 
 149/5 (1784-1854, Scan 201-256)
 TODO

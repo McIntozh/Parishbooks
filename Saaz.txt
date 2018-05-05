@@ -3,25 +3,74 @@ Saaz (Žatec)
 
 Geburten
 
+189/A (Indexbuch 1709-1747)
+VII
+Johann Schwarz			1709	13
+Johann Schwarz			1709	17
+Johann Schwartz			1710	47
+Katharina Schwartz		1712	98
+Maria Catharina Schwartz	1712	104
+Anna Susanna Schwartz		1714	140
+Mathias Schwarz			1716	197
+Anna Dorothea Schwartz		1717	234
+Katharina Anna Schwarz		1718	267
+Maria Schwarz			1721	328
+Johann Schwartz			1723	407
+Martin Schwartz			1724	433
+
 189/B (Indexbuch 1748-1770)
-Joannes Schwarz			6.2.1748	2	Christophori Schwarz sub sitornn Xdranks vixensrum
-Franciscus Antonius Schwarz	13/14.8.1748	10	Andrea Schwatz, Anna Catharina conjugja suboitorn Zatecensium
-Joannes Christophorus Schwarz	30.5.1749	24	Joannis Schwarz et Catharina Subditorum Zatecensium
+DONE
+
+189/C (Indexbuch 1771-1804)
+DONE
+
+189/8 (1727-1747, nach Index)
+?Agatha? Rosalia Schwartz	1728	54
+Maria Elisabeth Schwarz		1731	123
+Johann Franz Schwarz		1732	138
+Anton ?Veith? Schwarz		1733	177
+Maria Katharina Schwarz		1733	193
+Johannes Bartholomeus Hyazinth Schwarz	15.08.1734	215	In suburbi natur ex cadem baptizatus est Joannes Bartholomey Hyacinthur, filius legitimus Josephi Schwartz, ex Bortare Subditorum brenobli ? ?ancif? Henrico Bram? ex pago Lippen. Levans ...
+Maria Anna Schwarz		1735	236
+Johann Christoph ?Schwarz?	1735	240
+Anna Elisabeth Schwarz		1735	248
+Johann Franz Schwarz		1736	261
+Joh. Franz Herb. Schwarz	1737	292
+Maria Katharina Schwarz		1737	314
+Johann Franz Schwarz		1738	352
+Maria Katharina Schwarz		1739	359
+Anna Klara Schwarz		1739	377
+Johann Joseph Schwarz		1740	416
+Anna Elisabeth Schwarz		1741	453
+Anna Katharina Schwarz		1741	453
+Barbara Elisabeth Schwarz	1742	480
+Anton Herrmann Schwarz		1744	537
+Johann Joseph Crhistoph Schwarz	1744	560
+Joh. Mat. Mathäus Schwarz	1746	595
+Johann Wenzl Schwarz		1746	602
+Johanna Katharina Schwarz	1747	618
+Joh. ? Joseph Schwarz		1747	635
+
+
+189/9 (1748-1770, nach Index)
+Joannes Schwarz			06.02.1748	2	Christophori Schwarz sub sitornn Xdranks vixensrum
+Franciscus Antonius Schwarz	13/14.08.1748	10	Andrea Schwatz, Anna Catharina conjugja suboitorn Zatecensium
+Joannes Christophorus Schwarz	30.05.1749	24	Joannis Schwarz et Catharina Subditorum Zatecensium
 Anna Elisabetha Schwarz		22/23.10.1749	31	Christophori Schwarz, Elisabetha conjugis subditoru Zatec
 Anna Schwarz			1750	52
 Anna Schwarz			1752	81
 Anna Schwarz			1752	85
 Anton Schwarz			1752	93
 Leopold Schwarz			1753	129
-Joannes Schwarz			1756	203
-Josephus Schwarz		1758	257
-Anna Elisabetha Schwarz		17.3.1760	317	17 in Suburbio nata eteudem baptizata e Anna Elisabetha legitima Georgy Dami Schwartz et Maria Anna conjugis Subditorum Perilluhtrio P.P. de Ottilienfeld
-Joannes Wenceslaus Schwarz	30/31.5.1760	323	Andrea Schwartz, Anna Ottilienfeld... Testes en Patrini fuse Georgy Deny Schwartz et Anna Maria ...
+Johannes Franz Wenzl Schwarz	18.08.1756	204	... Joannes Franciscus Wenceslay, legitimy Wenceslay Schwartz et conjugis Anna...
+Josephus Schwarz		08.02.1758	257	... Josephus legitimy Christophori Schwartz et Elisabetha ... 
+Anna Elisabetha Schwarz		17.03.1760	317	17 in Suburbio nata eteudem baptizata e Anna Elisabetha legitima Georgy Dami Schwartz et Maria Anna conjugis Subditorum Perilluhtrio P.P. de Ottilienfeld
+Joannes Wenceslaus Schwarz	30/31.05.1760	323	Andrea Schwartz, Anna Ottilienfeld... Testes en Patrini fuse Georgy Deny Schwartz et Anna Maria ...
 Maria Magdalena Schwarz		22/23.?.1762	379	Georgy Dami Schwartz, Maria Anna
 Joannes Christophorus Schwarz	23/24.?.1762	386	Eva Schwartz(in)
-A? Schwarz			17.7.1763	432	Andrea Schwartz, Maria Anna
+A? Schwarz			17.07.1763	432	Andrea Schwartz, Maria Anna
 A? Schwarz			1763	452
-Jacobus Josephy Schwarz		29/30.7.1764	478	Andrea Schwartz, Maria Anna
+Jacobus Josephy Schwarz		29/30.07.1764	478	Andrea Schwartz, Maria Anna
 Ann Schwarz			1765	556
 Elisabeth Schwarz		1768	675
 Josephus Schwarz		1769	712
@@ -30,8 +79,6 @@ A? Schwarz			1769	743
 A? Schwarz			1770	760
 Nicolaus Schwarz		1770	801
 
-189/C (Indexbuch 1771-1804)
-DONE
 
 189/10 (1771-1796)
 Anna Elisabetha Schwarz		30.5.1774	65	in suburbia superiori [obere Vorstadt] 52, Anna Schwartz(in), Jubdita libinensis
@@ -72,11 +119,24 @@ Tode
 _______________________________
 Hochzeiten
 189/F (Indexbuch 1727-1799)
-I
-?TODO
+
+?
+Christ. Schwarz			1731	52
+
+189/27 (1727-1770)
+Barbara Schwarz			1728	17
+Andreas Schwarz			04.07.1734	66	... Andreas Schwarz et Anna Catharina König(in)
+Anna Dorothea Schwarz		1737	85
+Andreas Schwarz			21?.11.1746	174	... Andreas Schwartz et Theresia Spindler(in) ...
+Eva Rosina Schwarz		1754	258
+Wenzel Schwarz			22.04.1755	269	... Wenceslaus Schwartz et Anna ?Woitin? ...
+Georg Adam Schwarz		09.05.1756	281	... Georgius Adamus Schwartz et Anna ?lescher(iin)
+Katharina Schwarz		1759	332
+Maria Katharina Schwarz		1761	354
+Anna Barbara Schwarz		1764	402
 
 II
-?TODO
+-
 
 III
 Barbara Schwartz		2.6.1771	5	... Barbara Schwartzin defuncti Christophori Schwarz operary ?Zat: hlia?

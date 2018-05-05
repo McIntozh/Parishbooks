@@ -4,7 +4,7 @@ Pressern (Břežany), Schünau (Číňov), Sedschitz (Sedčice), Wedruschitz (V�
 ________________________________
 Geburten
 
-188/2 (1710-1771, Scan 2-138, unehl. Scan 236-265)
+188/2 (1710-1771, Scan 2-138, unehl. Scan 263-265)
 TODO<-Scan 69
 -
 Scan 91->TODO
@@ -16,12 +16,12 @@ Scan 130->TODO
 ________________________________
 Tode
 
-188/2 (1710-1771)
+188/2 (1710-1771, Scan 178-258)
 TODO
 
 
 ________________________________
 Trauungen
 
-188/2 (1710-1770, Scan 138-)
+188/2 (1710-1770, Scan 138-176)
 TODO

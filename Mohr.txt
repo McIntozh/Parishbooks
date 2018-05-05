@@ -4,6 +4,12 @@ Index für Mohr (Mory)
 
 Geburten
 
+L103/1 (1669-1730, nach Index, Index Scan x-y)
+TODO
+
+L103/2 (1731-1784, ehl. Scan 1-53, unehl. Scan 68-72, nach Index, Index Scan 178-190)
+-
+
 L103/3 (1784-1844 Anhand Index)
 Franz Wenzl Schwarz	11.6.1822	45	Haus Nr. 38, unehl. Zwillinge, Mutter: Josepha, des ?Anders? Schwarz eheliche Tocher der Mutter ?mertz? Josepha ?Foggin? ?Untertha? ?Ru? ?Weitentrebetiz? Nr. 38
 Franz Karl Schwarz	11.6.1822	45	"
@@ -13,5 +19,17 @@ Franz Karl Schwarz	11.6.1822	45	"
 ________________________________
 Tode
 
+L103/1 (1678-1730, nach Index, Index Scan x-y)
+TODO
+
+L103/2 (1730-1784, Scan 118-150, nach Index, Index Scan 173-176)
+-
+
 ________________________________
 Trauungen
+
+L103/1 (1678-1734, nach Index, Index Scan x-y)
+TODO
+
+L103/2 (1731-1784, Scan 82-117, nach Index, Index Scan 176-177)
+-
