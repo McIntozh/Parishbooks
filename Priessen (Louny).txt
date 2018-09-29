@@ -46,7 +46,14 @@ Anna Schwartz			22.03.1757	05/89	Mraiditz	Steffan | Anna Maria Elisabeth
 Maria Elisabeth Schwarz		14.08.1752	05/132	?		Maria
 Maria Katharina Schwartz	20.10.1766	06/37	Mraiditz	Johann | Maria Elisabeth
 Maria Elisabeth Schwartz	05.09.1768	06/50	Mraiditz	Johann | Maria Elisabeth
-Scan 67->TODO
+Christoph Schwarz			17.05.1770	06/71	Mraiditz	Johann | Maria Elisabeth
+Franz Schwarz				29.?.1770	06/128	Postelberg	Rosina
+Susanna Schwarz				01.01?.1772	06/94	Mraiditz 3	Johann | Maria Elisabeth
+Joseph Jakob Schwarz		21.11?.1773	06/112	Mraiditz 5	Johann | Maria Elisabeth
+Anna Rosina Schwartz		12.04.1783	07/81	Mraiditz 5	Adalbert | Anna
+Johann Schwartz				03.07.1784	07/95	Mraiditz 5	Adalbert | Anna
+Scan 85->TODO
+
 
 134/4 (1736-1756, nach Index)
 Joseph Schwarz			08.11.1743	88	Eltern: Johann Michael Schwarz | Katharina

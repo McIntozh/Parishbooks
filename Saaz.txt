@@ -25,19 +25,18 @@ DONE
 DONE
 
 189/8 (1727-1747, nach Index)
-?Agatha? Rosalia Schwartz	1728	54
-Maria Elisabeth Schwarz		1731	123
-Johann Franz Schwarz		1732	138
-Anton ?Veith? Schwarz		1733	177
-Maria Katharina Schwarz		1733	193
-Johannes Bartholomeus Hyazinth Schwarz	15.08.1734	215	In suburbi natur ex cadem baptizatus est Joannes Bartholomey Hyacinthur, filius legitimus Josephi Schwartz, ex Bortare Subditorum brenobli ? ?ancif? Henrico Bram? ex pago Lippen. Levans ...
-Maria Anna Schwarz		1735	236
-Johann Christoph ?Schwarz?	1735	240
-Anna Elisabeth Schwarz		1735	248
-Johann Franz Schwarz		1736	261
-Joh. Franz Herb. Schwarz	1737	292
-Maria Katharina Schwarz		1737	314
-Johann Franz Schwarz		1738	352
+?Agatha? Rosalia Schwartz				1728	54
+Maria Elisabeth Schwarz					12/13.06.1731	123			Eltern: Josephi Schwartz | Barbara
+Johann Franz Schwarz					31.12.1731/01.01.1732	139	Stankowitz	Eltern: Joannes Schwartz | Catharina
+Anton ?Veith? Schwarz					12.06.1733	177	Stankowitz	Eltern: Christophori Schwartz | Maria Elisabetha
+Maria Katharina Schwarz					14/15.12.1733	193	Stankowitz	14. In Stankowitz nata et 15. baptizatus est Maria Catharina filia liegitima Joannes Schwartz ...?... Testes: ...?..., Maria Elisabetha Schwartz(in)
+Johannes Bartholomeus Hyazinth Schwarz	15.08.1734	215		In suburbi natur ex cadem baptizatus est Joannes Bartholomey Hyacinthur, filius legitimus Josephi Schwartz, et Barbara Subditorum brenobli ? ?ancif? Henrico Bram? ex pago Lippen [wahrscheinlich Groß Lippen / Lipno]. Levans ...
+Maria Anna Schwarz						17.06.1735	236	Stankowitz	Eltern: Christophori Schwartz | Maria Elisabetha
+Anna Elisabeth Schwarz					12/13.12.1735	248	Holleditz	Eltern: Andrea Schwartz | Anna Catharina
+Johann Franz Schwarz					25.05.1736	261	Stankowitz	Eltern: Joannis Schwartz | Maria Catharina, Testes: ...Maria Elisabetha Schwartz(in)
+Johhann Georg Norbert Schwarz			16.07.1737	292				Eltern: Andrea Schwartz | Anna Catharina
+Maria Katharina Schwarz					21/22.12.1737	314	Stankowitz	Eltern: Christophori Schwartz | Maria Elisabetha, ...Levans Catharina Schwartz(in)
+Joseph Franz Schwarz					6/7.12.1738	352	Stankowitz	Eltern: Joannis Schwartz | Maria Catharina, Testes: ...Maria Elisabetha Schwartz(in)
 Maria Katharina Schwarz		1739	359
 Anna Klara Schwarz		1739	377
 Johann Joseph Schwarz		1740	416

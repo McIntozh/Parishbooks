@@ -36,8 +36,6 @@ Katharina Schwarz(in)	1.02.1801	29	Haus Nr. 18, Eltern: Joseph Schwarz Taglöhne
 Rosalia Schwarz(in)	21.06.1803	30	Haus Nr. 18, Eltern: Joseph Schwarz ? Taglöhner| Anna Maria Tochter des Wenzl Griger und der A Maria ?Berin? aus Pöllschowitz Nr. 29
 Scan 31 ->TODO
 
-?
-Franz Schwarz		16.11.1823	53	Miltschowes Nr. 20
 
 138/10 (Milloschitz 1784-1885, Geburten ab Scan 15)
 Magdalena Schwarz	19.08.1822	26	Milloschitz Nr. 3, +24.10.1823, Eltern: Anton Schwarz Schneidermeister alda | Josepha, Tochter des Joseph ?Rose? Bürgers in Rudig und der M.Anna Neukirchnernin dessen Eheweib aus ?Petersberg? gebürtig
@@ -45,6 +43,9 @@ Magdalena Schwarz	26/27.06.1824	27	Milloschitz Nr. 3, Eltern: Anton Schwarz Schn
 
 138/3 (Reitschowes) (Scan 26-
 Scan 34 (1796)->TODO
+TODO<-Scan 53 (1823)
+Franz Schwarz		16.11.1823	20	53	Reitschowes Nr. 20	Eltern: Johann Schwarz obrigkeit Taglöhner allhier | Theresia, Tochter des Joseph Schmid, Taglöhners in Neusattel und der Katharina Schmidin dessen Eheweib ebenfalls aus Neusattel
+Scan 54 (1824)->TODO
 
 ________________________________
 Tode
@@ -92,4 +93,5 @@ Scan 4->TODO
 
 138/3 (Reitschowes) (Scan 1-26)
 Scan 6->TODO
+TODO<-Scan 11->TODO
 
